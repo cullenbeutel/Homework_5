@@ -1,0 +1,2347 @@
+Region,Division,State,year,num_crimes
+South,East South Central,Alabama,1960.0,3567.1597609445453
+West,Pacific,Alaska,1960.0,235.99999999999997
+West,Mountain,Arizona,1960.0,2704.0000000000005
+South,West South Central,Arkansas,1960.0,1924.0
+West,Pacific,California,1960.0,37558.0
+West,Mountain,Colorado,1960.0,2408.0
+Northeast,New England,Connecticut,1960.0,928.0
+South,South Atlantic,Delaware,1960.0,375.00000000000006
+South,South Atlantic,District of Columbia,1960.0,4230.0
+South,South Atlantic,Florida,1960.0,11061.0
+South,South Atlantic,Georgia,1960.0,6262.0
+West,Pacific,Hawaii,1960.0,138.0
+West,Mountain,Idaho,1960.0,255.00000000000003
+Midwest,East North Central,Illinois,1960.0,36802.0
+Midwest,East North Central,Indiana,1960.0,3945.0000000000005
+Midwest,West North Central,Iowa,1960.0,656.0
+Midwest,West North Central,Kansas,1960.0,1272.0
+South,East South Central,Kentucky,1960.0,2957.0000000000005
+South,West South Central,Louisiana,1960.0,4990.0
+Northeast,New England,Maine,1960.0,289.0
+South,South Atlantic,Maryland,1960.0,4691.0
+Northeast,New England,Massachusetts,1960.0,2512.0
+Midwest,East North Central,Michigan,1960.0,17034.0
+Midwest,West North Central,Minnesota,1960.0,1435.0
+South,East South Central,Mississippi,1960.0,2236.0
+Midwest,West North Central,Missouri,1960.0,7468.0
+West,Mountain,Montana,1960.0,453.0
+Midwest,West North Central,Nebraska,1960.0,590.0
+West,Mountain,Nevada,1960.0,416.0
+Northeast,New England,New Hampshire,1960.0,81.00000000000001
+Northeast,Middle Atlantic,New Jersey,1960.0,6932.0
+West,Mountain,New Mexico,1960.0,1360.0
+Northeast,Middle Atlantic,New York,1960.0,127037.1992217172
+South,South Atlantic,North Carolina,1960.0,10182.0
+Midwest,West North Central,North Dakota,1960.0,90.0
+Midwest,East North Central,Ohio,1960.0,8120.000000000001
+South,West South Central,Oklahoma,1960.0,2258.0
+West,Pacific,Oregon,1960.0,1232.0
+Northeast,Middle Atlantic,Pennsylvania,1960.0,11203.0
+Northeast,New England,Rhode Island,1960.0,316.0
+South,South Atlantic,South Carolina,1960.0,3424.0
+Midwest,West North Central,South Dakota,1960.0,282.0
+South,East South Central,Tennessee,1960.0,3250.0000000000005
+South,West South Central,Texas,1960.0,15428.0
+West,Mountain,Utah,1960.0,484.0
+Northeast,New England,Vermont,1960.0,37.0
+South,South Atlantic,Virginia,1960.0,7286.0
+West,Pacific,Washington,1960.0,1616.0
+South,South Atlantic,West Virginia,1960.0,1200.0
+Midwest,East North Central,Wisconsin,1960.0,1261.0
+West,Mountain,Wyoming,1960.0,362.0
+South,East South Central,Alabama,1961.0000000000002,5563.999999999999
+West,Pacific,Alaska,1961.0000000000002,208.0
+West,Mountain,Arizona,1961.0000000000002,2288.0
+South,West South Central,Arkansas,1961.0000000000002,1808.9999999999998
+West,Pacific,California,1961.0000000000002,38154.0
+West,Mountain,Colorado,1961.0000000000002,2659.0
+Northeast,New England,Connecticut,1961.0000000000002,878.0
+South,South Atlantic,Delaware,1961.0000000000002,318.0
+South,South Atlantic,District of Columbia,1961.0000000000002,4491.0
+South,South Atlantic,Florida,1961.0000000000002,11376.0
+South,South Atlantic,Georgia,1961.0000000000002,6269.0
+West,Pacific,Hawaii,1961.0000000000002,161.0
+West,Mountain,Idaho,1961.0000000000002,221.99999999999997
+Midwest,East North Central,Illinois,1961.0000000000002,37156.0
+Midwest,East North Central,Indiana,1961.0000000000002,4044.0
+Midwest,West North Central,Iowa,1961.0000000000002,643.0
+Midwest,West North Central,Kansas,1961.0000000000002,1282.0
+South,East South Central,Kentucky,1961.0000000000002,2907.0
+South,West South Central,Louisiana,1961.0000000000002,4508.0
+Northeast,New England,Maine,1961.0000000000002,334.0
+South,South Atlantic,Maryland,1961.0000000000002,4959.0
+Northeast,New England,Massachusetts,1961.0000000000002,2777.0
+Midwest,East North Central,Michigan,1961.0000000000002,16499.0
+Midwest,West North Central,Minnesota,1961.0000000000002,1505.0
+South,East South Central,Mississippi,1961.0000000000002,2274.0
+Midwest,West North Central,Missouri,1961.0000000000002,7266.0
+West,Mountain,Montana,1961.0000000000002,457.0
+Midwest,West North Central,Nebraska,1961.0000000000002,586.0
+West,Mountain,Nevada,1961.0000000000002,549.0
+Northeast,New England,New Hampshire,1961.0000000000002,88.99999999999999
+Northeast,Middle Atlantic,New Jersey,1961.0000000000002,6682.0
+West,Mountain,New Mexico,1961.0000000000002,1278.0
+Northeast,Middle Atlantic,New York,1961.0000000000002,127650.3971065071
+South,South Atlantic,North Carolina,1961.0000000000002,9275.0
+Midwest,West North Central,North Dakota,1961.0000000000002,160.0
+Midwest,East North Central,Ohio,1961.0000000000002,7986.0
+South,West South Central,Oklahoma,1961.0000000000002,2437.0
+West,Pacific,Oregon,1961.0000000000002,1242.0
+Northeast,Middle Atlantic,Pennsylvania,1961.0000000000002,11223.0
+Northeast,New England,Rhode Island,1961.0000000000002,372.0
+South,South Atlantic,South Carolina,1961.0000000000002,3318.0
+Midwest,West North Central,South Dakota,1961.0000000000002,245.0
+South,East South Central,Tennessee,1961.0000000000002,3910.0
+South,West South Central,Texas,1961.0000000000002,15441.0
+West,Mountain,Utah,1961.0000000000002,451.0
+Northeast,New England,Vermont,1961.0000000000002,79.0
+South,South Atlantic,Virginia,1961.0000000000002,7555.0
+West,Pacific,Washington,1961.0000000000002,1687.0
+South,South Atlantic,West Virginia,1961.0000000000002,1167.0
+Midwest,East North Central,Wisconsin,1961.0000000000002,1268.0
+West,Mountain,Wyoming,1961.0000000000002,288.0
+South,East South Central,Alabama,1962.0,5283.0
+West,Pacific,Alaska,1962.0,225.0
+West,Mountain,Arizona,1962.0,2610.0
+South,West South Central,Arkansas,1962.0,1667.0
+West,Pacific,California,1962.0,39846.0
+West,Mountain,Colorado,1962.0,2990.0
+Northeast,New England,Connecticut,1962.0,938.0
+South,South Atlantic,Delaware,1962.0,338.00000000000006
+South,South Atlantic,District of Columbia,1962.0,4750.0
+South,South Atlantic,Florida,1962.0,10489.0
+South,South Atlantic,Georgia,1962.0,6200.0
+West,Pacific,Hawaii,1962.0,256.0
+West,Mountain,Idaho,1962.0,234.00000000000003
+Midwest,East North Central,Illinois,1962.0,38926.0
+Midwest,East North Central,Indiana,1962.0,4191.0
+Midwest,West North Central,Iowa,1962.0,559.0
+Midwest,West North Central,Kansas,1962.0,1477.0000000000002
+South,East South Central,Kentucky,1962.0,2962.9999999999995
+South,West South Central,Louisiana,1962.0,4570.0
+Northeast,New England,Maine,1962.0,277.0
+South,South Atlantic,Maryland,1962.0,4915.0
+Northeast,New England,Massachusetts,1962.0,3207.0000000000005
+Midwest,East North Central,Michigan,1962.0,18106.0
+Midwest,West North Central,Minnesota,1962.0,1673.9999999999998
+South,East South Central,Mississippi,1962.0,2079.0
+Midwest,West North Central,Missouri,1962.0,8059.0
+West,Mountain,Montana,1962.0,390.0
+Midwest,West North Central,Nebraska,1962.0,637.0
+West,Mountain,Nevada,1962.0,711.0
+Northeast,New England,New Hampshire,1962.0,177.99999999999997
+Northeast,Middle Atlantic,New Jersey,1962.0,7874.0
+West,Mountain,New Mexico,1962.0,1338.0
+Northeast,Middle Atlantic,New York,1962.0,128263.59499129676
+South,South Atlantic,North Carolina,1962.0,9533.0
+Midwest,West North Central,North Dakota,1962.0,128.0
+Midwest,East North Central,Ohio,1962.0,8366.0
+South,West South Central,Oklahoma,1962.0,2478.0
+West,Pacific,Oregon,1962.0,1461.0
+Northeast,Middle Atlantic,Pennsylvania,1962.0,11856.0
+Northeast,New England,Rhode Island,1962.0,402.0
+South,South Atlantic,South Carolina,1962.0,3011.9999999999995
+Midwest,West North Central,South Dakota,1962.0,279.0
+South,East South Central,Tennessee,1962.0,3767.0000000000005
+South,West South Central,Texas,1962.0,15516.000000000002
+West,Mountain,Utah,1962.0,554.0
+Northeast,New England,Vermont,1962.0,57.0
+South,South Atlantic,Virginia,1962.0,7720.0
+West,Pacific,Washington,1962.0,1913.0
+South,South Atlantic,West Virginia,1962.0,1146.0
+Midwest,East North Central,Wisconsin,1962.0,1174.0
+West,Mountain,Wyoming,1962.0,156.0
+South,East South Central,Alabama,1963.0000000000002,6115.000000000001
+West,Pacific,Alaska,1963.0000000000002,272.0
+West,Mountain,Arizona,1963.0000000000002,3027.0
+South,West South Central,Arkansas,1963.0000000000002,1991.0
+West,Pacific,California,1963.0000000000002,42419.0
+West,Mountain,Colorado,1963.0000000000002,2555.0
+Northeast,New England,Connecticut,1963.0000000000002,1192.0
+South,South Atlantic,Delaware,1963.0000000000002,424.0
+South,South Atlantic,District of Columbia,1963.0000000000002,4740.0
+South,South Atlantic,Florida,1963.0000000000002,12150.000000000002
+South,South Atlantic,Georgia,1963.0000000000002,7019.0
+West,Pacific,Hawaii,1963.0000000000002,214.99999999999997
+West,Mountain,Idaho,1963.0000000000002,362.0
+Midwest,East North Central,Illinois,1963.0000000000002,33627.0
+Midwest,East North Central,Indiana,1963.0000000000002,4819.0
+Midwest,West North Central,Iowa,1963.0000000000002,629.0
+Midwest,West North Central,Kansas,1963.0000000000002,1831.0
+South,East South Central,Kentucky,1963.0000000000002,2849.0
+South,West South Central,Louisiana,1963.0000000000002,5798.0
+Northeast,New England,Maine,1963.0000000000002,306.0
+South,South Atlantic,Maryland,1963.0000000000002,5283.0
+Northeast,New England,Massachusetts,1963.0000000000002,3454.0000000000005
+Midwest,East North Central,Michigan,1963.0000000000002,18478.0
+Midwest,West North Central,Minnesota,1963.0000000000002,1983.0
+South,East South Central,Mississippi,1963.0000000000002,1779.0
+Midwest,West North Central,Missouri,1963.0000000000002,8629.0
+West,Mountain,Montana,1963.0000000000002,414.0
+Midwest,West North Central,Nebraska,1963.0000000000002,591.0
+West,Mountain,Nevada,1963.0000000000002,755.0000000000001
+Northeast,New England,New Hampshire,1963.0000000000002,164.0
+Northeast,Middle Atlantic,New Jersey,1963.0000000000002,8849.0
+West,Mountain,New Mexico,1963.0000000000002,1376.0
+Northeast,Middle Atlantic,New York,1963.0000000000002,128876.7928760869
+South,South Atlantic,North Carolina,1963.0000000000002,10038.0
+Midwest,West North Central,North Dakota,1963.0000000000002,182.0
+Midwest,East North Central,Ohio,1963.0000000000002,9086.0
+South,West South Central,Oklahoma,1963.0000000000002,2807.9999999999995
+West,Pacific,Oregon,1963.0000000000002,1393.0
+Northeast,Middle Atlantic,Pennsylvania,1963.0000000000002,12678.000000000002
+Northeast,New England,Rhode Island,1963.0000000000002,499.99999999999994
+South,South Atlantic,South Carolina,1963.0000000000002,4075.0
+Midwest,West North Central,South Dakota,1963.0000000000002,278.0
+South,East South Central,Tennessee,1963.0000000000002,3777.0
+South,West South Central,Texas,1963.0000000000002,17511.0
+West,Mountain,Utah,1963.0000000000002,598.0
+Northeast,New England,Vermont,1963.0000000000002,92.0
+South,South Atlantic,Virginia,1963.0000000000002,8259.0
+West,Pacific,Washington,1963.0000000000002,2034.0
+South,South Atlantic,West Virginia,1963.0000000000002,1185.0
+Midwest,East North Central,Wisconsin,1963.0000000000002,1312.0
+West,Mountain,Wyoming,1963.0000000000002,213.00000000000003
+South,East South Central,Alabama,1964.0,7260.0
+West,Pacific,Alaska,1964.0,375.00000000000006
+West,Mountain,Arizona,1964.0,3367.9999999999995
+South,West South Central,Arkansas,1964.0,2641.0
+West,Pacific,California,1964.0,48026.0
+West,Mountain,Colorado,1964.0,3119.0
+Northeast,New England,Connecticut,1964.0,1772.9999999999998
+South,South Atlantic,Delaware,1964.0,541.0
+South,South Atlantic,District of Columbia,1964.0,5112.0
+South,South Atlantic,Florida,1964.0,16539.0
+South,South Atlantic,Georgia,1964.0,8285.0
+West,Pacific,Hawaii,1964.0,575.0
+West,Mountain,Idaho,1964.0,537.0
+Midwest,East North Central,Illinois,1964.0,36916.0
+Midwest,East North Central,Indiana,1964.0,6563.999999999999
+Midwest,West North Central,Iowa,1964.0,1007.0
+Midwest,West North Central,Kansas,1964.0,2573.0
+South,East South Central,Kentucky,1964.0,3486.0
+South,West South Central,Louisiana,1964.0,7140.0
+Northeast,New England,Maine,1964.0,506.0
+South,South Atlantic,Maryland,1964.0,7446.0
+Northeast,New England,Massachusetts,1964.0,4559.0
+Midwest,East North Central,Michigan,1964.0,21153.0
+Midwest,West North Central,Minnesota,1964.0,2601.0
+South,East South Central,Mississippi,1964.0,4118.0
+Midwest,West North Central,Missouri,1964.0,9553.0
+West,Mountain,Montana,1964.0,564.0
+Midwest,West North Central,Nebraska,1964.0,776.0
+West,Mountain,Nevada,1964.0,983.0
+Northeast,New England,New Hampshire,1964.0,149.0
+Northeast,Middle Atlantic,New Jersey,1964.0,10456.0
+West,Mountain,New Mexico,1964.0,1613.0
+Northeast,Middle Atlantic,New York,1964.0,129489.99076087656
+South,South Atlantic,North Carolina,1964.0,12345.000000000002
+Midwest,West North Central,North Dakota,1964.0,228.99999999999997
+Midwest,East North Central,Ohio,1964.0,11582.0
+South,West South Central,Oklahoma,1964.0,3609.0000000000005
+West,Pacific,Oregon,1964.0,2009.0
+Northeast,Middle Atlantic,Pennsylvania,1964.0,14161.999999999998
+Northeast,New England,Rhode Island,1964.0,578.0
+South,South Atlantic,South Carolina,1964.0,4240.0
+Midwest,West North Central,South Dakota,1964.0,408.0
+South,East South Central,Tennessee,1964.0,4505.0
+South,West South Central,Texas,1964.0,19769.0
+West,Mountain,Utah,1964.0,887.9999999999999
+Northeast,New England,Vermont,1964.0,88.99999999999999
+South,South Atlantic,Virginia,1964.0,10561.0
+West,Pacific,Washington,1964.0,2761.0
+South,South Atlantic,West Virginia,1964.0,1359.0
+Midwest,East North Central,Wisconsin,1964.0,1762.0
+West,Mountain,Wyoming,1964.0,285.0
+South,East South Central,Alabama,1965.0000000000002,6916.0
+West,Pacific,Alaska,1965.0000000000002,377.0
+West,Mountain,Arizona,1965.0000000000002,3092.0000000000005
+South,West South Central,Arkansas,1965.0000000000002,2662.0
+West,Pacific,California,1965.0000000000002,52490.0
+West,Mountain,Colorado,1965.0000000000002,3007.0
+Northeast,New England,Connecticut,1965.0000000000002,1973.0
+South,South Atlantic,Delaware,1965.0000000000002,561.0
+South,South Atlantic,District of Columbia,1965.0000000000002,5804.0
+South,South Atlantic,Florida,1965.0000000000002,17386.0
+South,South Atlantic,Georgia,1965.0000000000002,8777.0
+West,Pacific,Hawaii,1965.0000000000002,490.99999999999994
+West,Mountain,Idaho,1965.0000000000002,493.0
+Midwest,East North Central,Illinois,1965.0000000000002,34345.0
+Midwest,East North Central,Indiana,1965.0000000000002,6695.000000000001
+Midwest,West North Central,Iowa,1965.0000000000002,1067.0
+Midwest,West North Central,Kansas,1965.0000000000002,2392.0
+South,East South Central,Kentucky,1965.0000000000002,3463.0
+South,West South Central,Louisiana,1965.0000000000002,7178.000000000001
+Northeast,New England,Maine,1965.0000000000002,437.0
+South,South Atlantic,Maryland,1965.0000000000002,10032.0
+Northeast,New England,Massachusetts,1965.0000000000002,5270.0
+Midwest,East North Central,Michigan,1965.0000000000002,24459.000000000004
+Midwest,West North Central,Minnesota,1965.0000000000002,3074.0
+South,East South Central,Mississippi,1965.0000000000002,3949.0
+Midwest,West North Central,Missouri,1965.0000000000002,10588.0
+West,Mountain,Montana,1965.0000000000002,514.0
+Midwest,West North Central,Nebraska,1965.0000000000002,852.0000000000001
+West,Mountain,Nevada,1965.0000000000002,953.0
+Northeast,New England,New Hampshire,1965.0000000000002,156.0
+Northeast,Middle Atlantic,New Jersey,1965.0000000000002,10422.0
+West,Mountain,New Mexico,1965.0000000000002,2047.0
+Northeast,Middle Atlantic,New York,1965.0000000000002,58802.00000000001
+South,South Atlantic,North Carolina,1965.0000000000002,12755.0
+Midwest,West North Central,North Dakota,1965.0000000000002,223.0
+Midwest,East North Central,Ohio,1965.0000000000002,12788.0
+South,West South Central,Oklahoma,1965.0000000000002,3339.0000000000005
+West,Pacific,Oregon,1965.0000000000002,2290.0
+Northeast,Middle Atlantic,Pennsylvania,1965.0000000000002,16384.0
+Northeast,New England,Rhode Island,1965.0000000000002,722.0000000000001
+South,South Atlantic,South Carolina,1965.0000000000002,4504.0
+Midwest,West North Central,South Dakota,1965.0000000000002,415.0
+South,East South Central,Tennessee,1965.0000000000002,5333.0
+South,West South Central,Texas,1965.0000000000002,21029.0
+West,Mountain,Utah,1965.0000000000002,886.0
+Northeast,New England,Vermont,1965.0000000000002,88.99999999999999
+South,South Atlantic,Virginia,1965.0000000000002,10145.0
+West,Pacific,Washington,1965.0000000000002,3081.0
+South,South Atlantic,West Virginia,1965.0000000000002,1413.0
+Midwest,East North Central,Wisconsin,1965.0000000000002,1910.9999999999998
+West,Mountain,Wyoming,1965.0000000000002,257.0
+South,East South Central,Alabama,1966.0,8098.0
+West,Pacific,Alaska,1966.0,409.0
+West,Mountain,Arizona,1966.0,3272.0
+South,West South Central,Arkansas,1966.0,3185.0
+West,Pacific,California,1966.0,57718.0
+West,Mountain,Colorado,1966.0,3340.0
+Northeast,New England,Connecticut,1966.0,2146.0
+South,South Atlantic,Delaware,1966.0,655.0
+South,South Atlantic,District of Columbia,1966.0,7155.000000000001
+South,South Atlantic,Florida,1966.0,20069.0
+South,South Atlantic,Georgia,1966.0,9066.0
+West,Pacific,Hawaii,1966.0,598.0
+West,Mountain,Idaho,1966.0,461.0
+Midwest,East North Central,Illinois,1966.0,39116.0
+Midwest,East North Central,Indiana,1966.0,7196.0
+Midwest,West North Central,Iowa,1966.0,1214.0
+Midwest,West North Central,Kansas,1966.0,2517.0
+South,East South Central,Kentucky,1966.0,4191.0
+South,West South Central,Louisiana,1966.0,8689.0
+Northeast,New England,Maine,1966.0,485.99999999999994
+South,South Atlantic,Maryland,1966.0,11236.0
+Northeast,New England,Massachusetts,1966.0,6201.000000000001
+Midwest,East North Central,Michigan,1966.0,27806.0
+Midwest,West North Central,Minnesota,1966.0,3691.0
+South,East South Central,Mississippi,1966.0,3504.0
+Midwest,West North Central,Missouri,1966.0,11149.0
+West,Mountain,Montana,1966.0,507.0
+Midwest,West North Central,Nebraska,1966.0,941.0000000000001
+West,Mountain,Nevada,1966.0,987.0000000000001
+Northeast,New England,New Hampshire,1966.0,259.0
+Northeast,Middle Atlantic,New Jersey,1966.0,11168.0
+West,Mountain,New Mexico,1966.0,2221.0
+Northeast,Middle Atlantic,New York,1966.0,62561.0
+South,South Atlantic,North Carolina,1966.0,14775.0
+Midwest,West North Central,North Dakota,1966.0,231.0
+Midwest,East North Central,Ohio,1966.0,15626.0
+South,West South Central,Oklahoma,1966.0,3551.9999999999995
+West,Pacific,Oregon,1966.0,2470.0
+Northeast,Middle Atlantic,Pennsylvania,1966.0,15169.0
+Northeast,New England,Rhode Island,1966.0,849.0
+South,South Atlantic,South Carolina,1966.0,5844.0
+Midwest,West North Central,South Dakota,1966.0,568.0
+South,East South Central,Tennessee,1966.0,6145.0
+South,West South Central,Texas,1966.0,24382.0
+West,Mountain,Utah,1966.0,1148.0
+Northeast,New England,Vermont,1966.0,80.0
+South,South Atlantic,Virginia,1966.0,10399.0
+West,Pacific,Washington,1966.0,3673.0
+South,South Atlantic,West Virginia,1966.0,1613.0
+Midwest,East North Central,Wisconsin,1966.0,1984.0000000000002
+West,Mountain,Wyoming,1966.0,273.0
+South,East South Central,Alabama,1967.0000000000002,8448.0
+West,Pacific,Alaska,1967.0000000000002,437.0
+West,Mountain,Arizona,1967.0000000000002,3892.0
+South,West South Central,Arkansas,1967.0000000000002,4320.0
+West,Pacific,California,1967.0000000000002,67446.0
+West,Mountain,Colorado,1967.0000000000002,3789.0
+Northeast,New England,Connecticut,1967.0000000000002,2804.0
+South,South Atlantic,Delaware,1967.0000000000002,948.0
+South,South Atlantic,District of Columbia,1967.0000000000002,9252.0
+South,South Atlantic,Florida,1967.0000000000002,23399.0
+South,South Atlantic,Georgia,1967.0000000000002,8536.0
+West,Pacific,Hawaii,1967.0000000000002,591.0
+West,Mountain,Idaho,1967.0000000000002,478.0
+Midwest,East North Central,Illinois,1967.0000000000002,42956.0
+Midwest,East North Central,Indiana,1967.0000000000002,8143.000000000001
+Midwest,West North Central,Iowa,1967.0000000000002,1608.0
+Midwest,West North Central,Kansas,1967.0000000000002,3248.0
+South,East South Central,Kentucky,1967.0000000000002,4484.0
+South,West South Central,Louisiana,1967.0000000000002,10071.0
+Northeast,New England,Maine,1967.0000000000002,621.0
+South,South Atlantic,Maryland,1967.0000000000002,17458.0
+Northeast,New England,Massachusetts,1967.0000000000002,6919.000000000001
+Midwest,East North Central,Michigan,1967.0000000000002,33390.0
+Midwest,West North Central,Minnesota,1967.0000000000002,4727.0
+South,East South Central,Mississippi,1967.0000000000002,2672.0
+Midwest,West North Central,Missouri,1967.0000000000002,12746.0
+West,Mountain,Montana,1967.0000000000002,588.0
+Midwest,West North Central,Nebraska,1967.0000000000002,1624.0
+West,Mountain,Nevada,1967.0000000000002,1100.0
+Northeast,New England,New Hampshire,1967.0000000000002,218.0
+Northeast,Middle Atlantic,New Jersey,1967.0000000000002,13204.0
+West,Mountain,New Mexico,1967.0000000000002,2325.0
+Northeast,Middle Atlantic,New York,1967.0000000000002,75124.0
+South,South Atlantic,North Carolina,1967.0000000000002,15995.0
+Midwest,West North Central,North Dakota,1967.0000000000002,184.99999999999997
+Midwest,East North Central,Ohio,1967.0000000000002,19344.0
+South,West South Central,Oklahoma,1967.0000000000002,3703.0
+West,Pacific,Oregon,1967.0000000000002,3146.9999999999995
+Northeast,Middle Atlantic,Pennsylvania,1967.0000000000002,16119.0
+Northeast,New England,Rhode Island,1967.0000000000002,1156.0
+South,South Atlantic,South Carolina,1967.0000000000002,6015.0
+Midwest,West North Central,South Dakota,1967.0000000000002,586.0
+South,East South Central,Tennessee,1967.0000000000002,8111.0
+South,West South Central,Texas,1967.0000000000002,26749.0
+West,Mountain,Utah,1967.0000000000002,1194.0
+Northeast,New England,Vermont,1967.0000000000002,86.0
+South,South Atlantic,Virginia,1967.0000000000002,10328.0
+West,Pacific,Washington,1967.0000000000002,4754.0
+South,South Atlantic,West Virginia,1967.0000000000002,1744.0
+Midwest,East North Central,Wisconsin,1967.0000000000002,2948.0
+West,Mountain,Wyoming,1967.0000000000002,294.0
+South,East South Central,Alabama,1968.0,8288.0
+West,Pacific,Alaska,1968.0,485.99999999999994
+West,Mountain,Arizona,1968.0,4402.0
+South,West South Central,Arkansas,1968.0,4360.0
+West,Pacific,California,1968.0,81293.0
+West,Mountain,Colorado,1968.0,5387.0
+Northeast,New England,Connecticut,1968.0,3825.0
+South,South Atlantic,Delaware,1968.0,1288.0
+South,South Atlantic,District of Columbia,1968.0,12180.0
+South,South Atlantic,Florida,1968.0,27913.0
+South,South Atlantic,Georgia,1968.0,9903.0
+West,Pacific,Hawaii,1968.0,662.0
+West,Mountain,Idaho,1968.0,518.0
+Midwest,East North Central,Illinois,1968.0,44776.0
+Midwest,East North Central,Indiana,1968.0,10229.0
+Midwest,West North Central,Iowa,1968.0,1882.0000000000002
+Midwest,West North Central,Kansas,1968.0,3463.0
+South,East South Central,Kentucky,1968.0,5317.0
+South,West South Central,Louisiana,1968.0,11742.0
+Northeast,New England,Maine,1968.0,633.0
+South,South Atlantic,Maryland,1968.0,23404.999999999996
+Northeast,New England,Massachusetts,1968.0,8916.0
+Midwest,East North Central,Michigan,1968.0,37292.0
+Midwest,West North Central,Minnesota,1968.0,5111.0
+South,East South Central,Mississippi,1968.0,3397.0
+Midwest,West North Central,Missouri,1968.0,15216.0
+West,Mountain,Montana,1968.0,610.0
+Midwest,West North Central,Nebraska,1968.0,2103.0
+West,Mountain,Nevada,1968.0,1261.0
+Northeast,New England,New Hampshire,1968.0,279.0
+Northeast,Middle Atlantic,New Jersey,1968.0,16711.0
+West,Mountain,New Mexico,1968.0,2543.0
+Northeast,Middle Atlantic,New York,1968.0,98515.0
+South,South Atlantic,North Carolina,1968.0,18025.0
+Midwest,West North Central,North Dakota,1968.0,173.0
+Midwest,East North Central,Ohio,1968.0,21228.0
+South,West South Central,Oklahoma,1968.0,4473.0
+West,Pacific,Oregon,1968.0,3955.0
+Northeast,Middle Atlantic,Pennsylvania,1968.0,20710.0
+Northeast,New England,Rhode Island,1968.0,1254.0
+South,South Atlantic,South Carolina,1968.0,5853.0
+Midwest,West North Central,South Dakota,1968.0,563.0
+South,East South Central,Tennessee,1968.0,8766.0
+South,West South Central,Texas,1968.0,29646.0
+West,Mountain,Utah,1968.0,1201.0
+Northeast,New England,Vermont,1968.0,157.0
+South,South Atlantic,Virginia,1968.0,12821.0
+West,Pacific,Washington,1968.0,6970.0
+South,South Atlantic,West Virginia,1968.0,1959.0
+Midwest,East North Central,Wisconsin,1968.0,3400.0
+West,Mountain,Wyoming,1968.0,278.0
+South,East South Central,Alabama,1969.0000000000002,8842.0
+West,Pacific,Alaska,1969.0000000000002,624.0
+West,Mountain,Arizona,1969.0000000000002,5741.999999999999
+South,West South Central,Arkansas,1969.0000000000002,4390.0
+West,Pacific,California,1969.0000000000002,89878.0
+West,Mountain,Colorado,1969.0000000000002,6275.0
+Northeast,New England,Connecticut,1969.0000000000002,4415.0
+South,South Atlantic,Delaware,1969.0000000000002,1588.0
+South,South Atlantic,District of Columbia,1969.0000000000002,17038.0
+South,South Atlantic,Florida,1969.0000000000002,29411.0
+South,South Atlantic,Georgia,1969.0000000000002,11235.0
+West,Pacific,Hawaii,1969.0000000000002,683.9999999999999
+West,Mountain,Idaho,1969.0000000000002,806.0000000000001
+Midwest,East North Central,Illinois,1969.0000000000002,49542.99999999999
+Midwest,East North Central,Indiana,1969.0000000000002,10141.0
+Midwest,West North Central,Iowa,1969.0000000000002,1918.0000000000002
+Midwest,West North Central,Kansas,1969.0000000000002,3873.0
+South,East South Central,Kentucky,1969.0000000000002,5745.0
+South,West South Central,Louisiana,1969.0000000000002,13492.0
+Northeast,New England,Maine,1969.0000000000002,733.0
+South,South Atlantic,Maryland,1969.0000000000002,24295.0
+Northeast,New England,Massachusetts,1969.0000000000002,10272.0
+Midwest,East North Central,Michigan,1969.0000000000002,44048.00000000001
+Midwest,West North Central,Minnesota,1969.0000000000002,5253.0
+South,East South Central,Mississippi,1969.0000000000002,3354.0
+Midwest,West North Central,Missouri,1969.0000000000002,18260.0
+West,Mountain,Montana,1969.0000000000002,682.0
+Midwest,West North Central,Nebraska,1969.0000000000002,2302.0
+West,Mountain,Nevada,1969.0000000000002,1642.0
+Northeast,New England,New Hampshire,1969.0000000000002,325.0
+Northeast,Middle Atlantic,New Jersey,1969.0000000000002,17226.0
+West,Mountain,New Mexico,1969.0000000000002,2881.0
+Northeast,Middle Atlantic,New York,1969.0000000000002,105870.0
+South,South Atlantic,North Carolina,1969.0000000000002,18117.0
+Midwest,West North Central,North Dakota,1969.0000000000002,220.00000000000003
+Midwest,East North Central,Ohio,1969.0000000000002,26648.0
+South,West South Central,Oklahoma,1969.0000000000002,4775.0
+West,Pacific,Oregon,1969.0000000000002,4527.0
+Northeast,Middle Atlantic,Pennsylvania,1969.0000000000002,22887.0
+Northeast,New England,Rhode Island,1969.0000000000002,1594.0
+South,South Atlantic,South Carolina,1969.0000000000002,6448.999999999999
+Midwest,West North Central,South Dakota,1969.0000000000002,510.00000000000006
+South,East South Central,Tennessee,1969.0000000000002,9235.0
+South,West South Central,Texas,1969.0000000000002,36707.0
+West,Mountain,Utah,1969.0000000000002,1459.9999999999998
+Northeast,New England,Vermont,1969.0000000000002,234.00000000000003
+South,South Atlantic,Virginia,1969.0000000000002,12433.0
+West,Pacific,Washington,1969.0000000000002,8243.0
+South,South Atlantic,West Virginia,1969.0000000000002,1766.0
+Midwest,East North Central,Wisconsin,1969.0000000000002,3410.9999999999995
+West,Mountain,Wyoming,1969.0000000000002,286.0
+South,East South Central,Alabama,1970.0,10185.0
+West,Pacific,Alaska,1970.0,840.0
+West,Mountain,Arizona,1970.0,6563.999999999999
+South,West South Central,Arkansas,1970.0,4276.0
+West,Pacific,California,1970.0,94741.00000000001
+West,Mountain,Colorado,1970.0,7874.0
+Northeast,New England,Connecticut,1970.0,5167.0
+South,South Atlantic,Delaware,1970.0,1795.0
+South,South Atlantic,District of Columbia,1970.0,16846.0
+South,South Atlantic,Florida,1970.0,33824.0
+South,South Atlantic,Georgia,1970.0,13976.000000000002
+West,Pacific,Hawaii,1970.0,938.0
+West,Mountain,Idaho,1970.0,879.0
+Midwest,East North Central,Illinois,1970.0,52005.99999999999
+Midwest,East North Central,Indiana,1970.0,12184.000000000002
+Midwest,West North Central,Iowa,1970.0,2241.0
+Midwest,West North Central,Kansas,1970.0,4561.0
+South,East South Central,Kentucky,1970.0,7157.0
+South,West South Central,Louisiana,1970.0,15063.0
+Northeast,New England,Maine,1970.0,887.0
+South,South Atlantic,Maryland,1970.0,24512.0
+Northeast,New England,Massachusetts,1970.0,11541.999999999998
+Midwest,East North Central,Michigan,1970.0,51090.0
+Midwest,West North Central,Minnesota,1970.0,5782.000000000001
+South,East South Central,Mississippi,1970.0,3973.9999999999995
+Midwest,West North Central,Missouri,1970.0,18986.0
+West,Mountain,Montana,1970.0,774.0
+Midwest,West North Central,Nebraska,1970.0,2731.0
+West,Mountain,Nevada,1970.0,1948.0
+Northeast,New England,New Hampshire,1970.0,413.0
+Northeast,Middle Atlantic,New Jersey,1970.0,20583.0
+West,Mountain,New Mexico,1970.0,3093.0
+Northeast,Middle Atlantic,New York,1970.0,124613.00000000001
+South,South Atlantic,North Carolina,1970.0,18814.0
+Midwest,West North Central,North Dakota,1970.0,211.0
+Midwest,East North Central,Ohio,1970.0,30279.0
+South,West South Central,Oklahoma,1970.0,5194.0
+West,Pacific,Oregon,1970.0,5373.0
+Northeast,Middle Atlantic,Pennsylvania,1970.0,25970.0
+Northeast,New England,Rhode Island,1970.0,1943.9999999999998
+South,South Atlantic,South Carolina,1970.0,7412.0
+Midwest,West North Central,South Dakota,1970.0,616.0
+South,East South Central,Tennessee,1970.0,10787.0
+South,West South Central,Texas,1970.0,40897.0
+West,Mountain,Utah,1970.0,1459.0
+Northeast,New England,Vermont,1970.0,329.0
+South,South Atlantic,Virginia,1970.0,14040.0
+West,Pacific,Washington,1970.0,7545.999999999999
+South,South Atlantic,West Virginia,1970.0,2158.0
+Midwest,East North Central,Wisconsin,1970.0,3792.0
+West,Mountain,Wyoming,1970.0,376.0
+South,East South Central,Alabama,1971.0000000000002,10835.0
+West,Pacific,Alaska,1971.0000000000002,1112.0
+West,Mountain,Arizona,1971.0000000000002,7407.0
+South,West South Central,Arkansas,1971.0000000000002,4680.0
+West,Pacific,California,1971.0000000000002,104872.0
+West,Mountain,Colorado,1971.0000000000002,8530.0
+Northeast,New England,Connecticut,1971.0000000000002,5968.0
+South,South Atlantic,Delaware,1971.0000000000002,2060.0
+South,South Atlantic,District of Columbia,1971.0000000000002,16084.0
+South,South Atlantic,Florida,1971.0000000000002,38575.0
+South,South Atlantic,Georgia,1971.0000000000002,15898.0
+West,Pacific,Hawaii,1971.0000000000002,1830.0
+West,Mountain,Idaho,1971.0000000000002,917.0
+Midwest,East North Central,Illinois,1971.0000000000002,53436.0
+Midwest,East North Central,Indiana,1971.0000000000002,13031.0
+Midwest,West North Central,Iowa,1971.0000000000002,2822.0000000000005
+Midwest,West North Central,Kansas,1971.0000000000002,4843.0
+South,East South Central,Kentucky,1971.0000000000002,7717.0
+South,West South Central,Louisiana,1971.0000000000002,15208.0
+Northeast,New England,Maine,1971.0000000000002,903.0000000000001
+South,South Atlantic,Maryland,1971.0000000000002,24857.0
+Northeast,New England,Massachusetts,1971.0000000000002,15317.0
+Midwest,East North Central,Michigan,1971.0000000000002,51697.0
+Midwest,West North Central,Minnesota,1971.0000000000002,5993.0
+South,East South Central,Mississippi,1971.0000000000002,6151.0
+Midwest,West North Central,Missouri,1971.0000000000002,18357.0
+West,Mountain,Montana,1971.0000000000002,971.0
+Midwest,West North Central,Nebraska,1971.0000000000002,2355.0
+West,Mountain,Nevada,1971.0000000000002,1887.0
+Northeast,New England,New Hampshire,1971.0000000000002,580.0
+Northeast,Middle Atlantic,New Jersey,1971.0000000000002,26441.0
+West,Mountain,New Mexico,1971.0000000000002,3994.0000000000005
+Northeast,Middle Atlantic,New York,1971.0000000000002,145048.0
+South,South Atlantic,North Carolina,1971.0000000000002,19952.0
+Midwest,West North Central,North Dakota,1971.0000000000002,238.0
+Midwest,East North Central,Ohio,1971.0000000000002,32159.000000000004
+South,West South Central,Oklahoma,1971.0000000000002,6718.999999999999
+West,Pacific,Oregon,1971.0000000000002,6335.0
+Northeast,Middle Atlantic,Pennsylvania,1971.0000000000002,31917.0
+Northeast,New England,Rhode Island,1971.0000000000002,2129.0
+South,South Atlantic,South Carolina,1971.0000000000002,8188.0
+Midwest,West North Central,South Dakota,1971.0000000000002,644.0
+South,East South Central,Tennessee,1971.0000000000002,12520.0
+South,West South Central,Texas,1971.0000000000002,43089.0
+West,Mountain,Utah,1971.0000000000002,1689.0
+Northeast,New England,Vermont,1971.0000000000002,333.0
+South,South Atlantic,Virginia,1971.0000000000002,15384.0
+West,Pacific,Washington,1971.0000000000002,8154.999999999999
+South,South Atlantic,West Virginia,1971.0000000000002,2311.0
+Midwest,East North Central,Wisconsin,1971.0000000000002,3956.9999999999995
+West,Mountain,Wyoming,1971.0000000000002,532.0
+South,East South Central,Alabama,1972.0,10994.0
+West,Pacific,Alaska,1972.0,1204.0
+West,Mountain,Arizona,1972.0,8731.0
+South,West South Central,Arkansas,1972.0,4840.0
+West,Pacific,California,1972.0,110667.0
+West,Mountain,Colorado,1972.0,9555.0
+Northeast,New England,Connecticut,1972.0,6138.000000000001
+South,South Atlantic,Delaware,1972.0,2181.0
+South,South Atlantic,District of Columbia,1972.0,12607.0
+South,South Atlantic,Florida,1972.0,40252.0
+South,South Atlantic,Georgia,1972.0,17823.0
+West,Pacific,Hawaii,1972.0,1258.0
+West,Mountain,Idaho,1972.0,1085.0
+Midwest,East North Central,Illinois,1972.0,57162.0
+Midwest,East North Central,Indiana,1972.0,12968.0
+Midwest,West North Central,Iowa,1972.0,2519.0
+Midwest,West North Central,Kansas,1972.0,4737.0
+South,East South Central,Kentucky,1972.0,7446.0
+South,West South Central,Louisiana,1972.0,15711.999999999998
+Northeast,New England,Maine,1972.0,1143.0
+South,South Atlantic,Maryland,1972.0,26412.000000000004
+Northeast,New England,Massachusetts,1972.0,17086.0
+Midwest,East North Central,Michigan,1972.0,50425.0
+Midwest,West North Central,Minnesota,1972.0,6798.0
+South,East South Central,Mississippi,1972.0,7076.0
+Midwest,West North Central,Missouri,1972.0,18223.0
+West,Mountain,Montana,1972.0,1079.0
+Midwest,West North Central,Nebraska,1972.0,2638.0
+West,Mountain,Nevada,1972.0,2264.0
+Northeast,New England,New Hampshire,1972.0,490.99999999999994
+Northeast,Middle Atlantic,New Jersey,1972.0,27577.0
+West,Mountain,New Mexico,1972.0,4598.0
+Northeast,Middle Atlantic,New York,1972.0,138542.0
+South,South Atlantic,North Carolina,1972.0,22087.0
+Midwest,West North Central,North Dakota,1972.0,290.0
+Midwest,East North Central,Ohio,1972.0,32286.0
+South,West South Central,Oklahoma,1972.0,6289.0
+West,Pacific,Oregon,1972.0,6494.000000000001
+Northeast,Middle Atlantic,Pennsylvania,1972.0,33052.0
+Northeast,New England,Rhode Island,1972.0,2424.0
+South,South Atlantic,South Carolina,1972.0,10312.0
+Midwest,West North Central,South Dakota,1972.0,756.0
+South,East South Central,Tennessee,1972.0,12858.0
+South,West South Central,Texas,1972.0,41285.0
+West,Mountain,Utah,1972.0,2063.0
+Northeast,New England,Vermont,1972.0,445.00000000000006
+South,South Atlantic,Virginia,1972.0,16483.0
+West,Pacific,Washington,1972.0,8627.0
+South,South Atlantic,West Virginia,1972.0,2299.0
+Midwest,East North Central,Wisconsin,1972.0,4358.0
+West,Mountain,Wyoming,1972.0,511.0
+South,East South Central,Alabama,1973.0,12390.0
+West,Pacific,Alaska,1973.0,1269.0
+West,Mountain,Arizona,1973.0,9877.0
+South,West South Central,Arkansas,1973.0,5905.0
+West,Pacific,California,1973.0,116563.00000000001
+West,Mountain,Colorado,1973.0,10088.0
+Northeast,New England,Connecticut,1973.0,6421.0
+South,South Atlantic,Delaware,1973.0,2016.0
+South,South Atlantic,District of Columbia,1973.0,11626.0
+South,South Atlantic,Florida,1973.0,46418.99999999999
+South,South Atlantic,Georgia,1973.0,19738.0
+West,Pacific,Hawaii,1973.0,1295.0
+West,Mountain,Idaho,1973.0,1264.0
+Midwest,East North Central,Illinois,1973.0,62456.99999999999
+Midwest,East North Central,Indiana,1973.0,13696.0
+Midwest,West North Central,Iowa,1973.0,2970.0
+Midwest,West North Central,Kansas,1973.0,4956.0
+South,East South Central,Kentucky,1973.0,7356.000000000001
+South,West South Central,Louisiana,1973.0,16020.0
+Northeast,New England,Maine,1973.0,1258.0
+South,South Atlantic,Maryland,1973.0,26092.999999999996
+Northeast,New England,Massachusetts,1973.0,20475.0
+Midwest,East North Central,Michigan,1973.0,52921.0
+Midwest,West North Central,Minnesota,1973.0,6926.0
+South,East South Central,Mississippi,1973.0,7734.0
+Midwest,West North Central,Missouri,1973.0,19441.0
+West,Mountain,Montana,1973.0,1207.0
+Midwest,West North Central,Nebraska,1973.0,2859.0
+West,Mountain,Nevada,1973.0,3135.0000000000005
+Northeast,New England,New Hampshire,1973.0,649.0
+Northeast,Middle Atlantic,New Jersey,1973.0,28845.0
+West,Mountain,New Mexico,1973.0,5219.0
+Northeast,Middle Atlantic,New York,1973.0,135468.0
+South,South Atlantic,North Carolina,1973.0,23086.0
+Midwest,West North Central,North Dakota,1973.0,389.00000000000006
+Midwest,East North Central,Ohio,1973.0,31304.0
+South,West South Central,Oklahoma,1973.0,6556.0
+West,Pacific,Oregon,1973.0,6511.999999999999
+Northeast,Middle Atlantic,Pennsylvania,1973.0,32397.0
+Northeast,New England,Rhode Island,1973.0,2749.0
+South,South Atlantic,South Carolina,1973.0,10757.0
+Midwest,West North Central,South Dakota,1973.0,869.0
+South,East South Central,Tennessee,1973.0,14770.999999999998
+South,West South Central,Texas,1973.0,45458.0
+West,Mountain,Utah,1973.0,2412.0
+Northeast,New England,Vermont,1973.0,327.0
+South,South Atlantic,Virginia,1973.0,16007.0
+West,Pacific,Washington,1973.0,9309.0
+South,South Atlantic,West Virginia,1973.0,2219.0
+Midwest,East North Central,Wisconsin,1973.0,5273.0
+West,Mountain,Wyoming,1973.0,762.9999999999999
+South,East South Central,Alabama,1974.0,13338.0
+West,Pacific,Alaska,1974.0,1527.0
+West,Mountain,Arizona,1974.0,12202.0
+South,West South Central,Arkansas,1974.0,6521.0
+West,Pacific,California,1974.0,127658.0
+West,Mountain,Colorado,1974.0,10728.0
+Northeast,New England,Connecticut,1974.0,7045.0
+South,South Atlantic,Delaware,1974.0,2539.0
+South,South Atlantic,District of Columbia,1974.0,11590.0
+South,South Atlantic,Florida,1974.0,54821.0
+South,South Atlantic,Georgia,1974.0,21587.0
+West,Pacific,Hawaii,1974.0,1762.0
+West,Mountain,Idaho,1974.0,1465.0
+Midwest,East North Central,Illinois,1974.0,69806.0
+Midwest,East North Central,Indiana,1974.0,15631.000000000002
+Midwest,West North Central,Iowa,1974.0,3455.0
+Midwest,West North Central,Kansas,1974.0,6272.0
+South,East South Central,Kentucky,1974.0,7857.0
+South,West South Central,Louisiana,1974.0,17794.0
+Northeast,New England,Maine,1974.0,1440.0
+South,South Atlantic,Maryland,1974.0,29439.0
+Northeast,New England,Massachusetts,1974.0,22545.0
+Midwest,East North Central,Michigan,1974.0,59993.0
+Midwest,West North Central,Minnesota,1974.0,8119.0
+South,East South Central,Mississippi,1974.0,7782.0
+Midwest,West North Central,Missouri,1974.0,21611.999999999996
+West,Mountain,Montana,1974.0,1194.0
+Midwest,West North Central,Nebraska,1974.0,3697.0
+West,Mountain,Nevada,1974.0,3910.0
+Northeast,New England,New Hampshire,1974.0,739.0
+Northeast,Middle Atlantic,New Jersey,1974.0,29568.0
+West,Mountain,New Mexico,1974.0,5053.0
+Northeast,Middle Atlantic,New York,1974.0,145427.0
+South,South Atlantic,North Carolina,1974.0,26220.0
+Midwest,West North Central,North Dakota,1974.0,319.0
+Midwest,East North Central,Ohio,1974.0,39094.0
+South,West South Central,Oklahoma,1974.0,7588.0
+West,Pacific,Oregon,1974.0,8326.0
+Northeast,Middle Atlantic,Pennsylvania,1974.0,37281.0
+Northeast,New England,Rhode Island,1974.0,2651.0
+South,South Atlantic,South Carolina,1974.0,12688.0
+Midwest,West North Central,South Dakota,1974.0,1234.0
+South,East South Central,Tennessee,1974.0,15969.0
+South,West South Central,Texas,1974.0,47008.0
+West,Mountain,Utah,1974.0,2517.0
+Northeast,New England,Vermont,1974.0,353.0
+South,South Atlantic,Virginia,1974.0,17514.0
+West,Pacific,Washington,1974.0,12035.999999999998
+South,South Atlantic,West Virginia,1974.0,2460.0
+Midwest,East North Central,Wisconsin,1974.0,6411.0
+West,Mountain,Wyoming,1974.0,519.0
+South,East South Central,Alabama,1975.0,14201.0
+West,Pacific,Alaska,1975.0,1900.0
+West,Mountain,Arizona,1975.0,12184.000000000002
+South,West South Central,Arkansas,1975.0,7369.0
+West,Pacific,California,1975.0,138842.0
+West,Mountain,Colorado,1975.0,11735.0
+Northeast,New England,Connecticut,1975.0,8308.0
+South,South Atlantic,Delaware,1975.0,2270.0
+South,South Atlantic,District of Columbia,1975.0,12704.0
+South,South Atlantic,Florida,1975.0,57540.0
+South,South Atlantic,Georgia,1975.0,22608.0
+West,Pacific,Hawaii,1975.0,1889.0
+West,Mountain,Idaho,1975.0,1670.0
+Midwest,East North Central,Illinois,1975.0,74699.0
+Midwest,East North Central,Indiana,1975.0,17677.0
+Midwest,West North Central,Iowa,1975.0,4039.0
+Midwest,West North Central,Kansas,1975.0,6307.0
+South,East South Central,Kentucky,1975.0,8967.0
+South,West South Central,Louisiana,1975.0,18137.0
+Northeast,New England,Maine,1975.0,2324.0
+South,South Atlantic,Maryland,1975.0,29087.0
+Northeast,New England,Massachusetts,1975.0,25793.000000000004
+Midwest,East North Central,Michigan,1975.0,62792.0
+Midwest,West North Central,Minnesota,1975.0,8125.0
+South,East South Central,Mississippi,1975.0,7411.0
+Midwest,West North Central,Missouri,1975.0,23520.999999999996
+West,Mountain,Montana,1975.0,1418.0
+Midwest,West North Central,Nebraska,1975.0,3986.0
+West,Mountain,Nevada,1975.0,4018.0
+Northeast,New England,New Hampshire,1975.0,816.0
+Northeast,Middle Atlantic,New Jersey,1975.0,30215.0
+West,Mountain,New Mexico,1975.0,6134.0
+Northeast,Middle Atlantic,New York,1975.0,155187.0
+South,South Atlantic,North Carolina,1975.0,23791.0
+Midwest,West North Central,North Dakota,1975.0,337.0
+Midwest,East North Central,Ohio,1975.0,43901.0
+South,West South Central,Oklahoma,1975.0,8225.0
+West,Pacific,Oregon,1975.0,10034.0
+Northeast,Middle Atlantic,Pennsylvania,1975.0,38933.0
+Northeast,New England,Rhode Island,1975.0,2801.9999999999995
+South,South Atlantic,South Carolina,1975.0,14412.0
+Midwest,West North Central,South Dakota,1975.0,1402.0
+South,East South Central,Tennessee,1975.0,16627.0
+South,West South Central,Texas,1975.0,47803.0
+West,Mountain,Utah,1975.0,2795.0
+Northeast,New England,Vermont,1975.0,448.0
+South,South Atlantic,Virginia,1975.0,18917.0
+West,Pacific,Washington,1975.0,13850.999999999998
+South,South Atlantic,West Virginia,1975.0,2915.0
+Midwest,East North Central,Wisconsin,1975.0,6992.0
+West,Mountain,Wyoming,1975.0,764.0
+South,East South Central,Alabama,1976.0,14248.0
+West,Pacific,Alaska,1976.0,2063.0
+West,Mountain,Arizona,1976.0,10335.0
+South,West South Central,Arkansas,1976.0,6410.0
+West,Pacific,California,1976.0,144041.0
+West,Mountain,Colorado,1976.0,10770.0
+Northeast,New England,Connecticut,1976.0,8516.0
+South,South Atlantic,Delaware,1976.0,1872.0000000000002
+South,South Atlantic,District of Columbia,1976.0,10399.0
+South,South Atlantic,Florida,1976.0,54597.00000000001
+South,South Atlantic,Georgia,1976.0,21030.0
+West,Pacific,Hawaii,1976.0,2034.0
+West,Mountain,Idaho,1976.0,1884.0
+Midwest,East North Central,Illinois,1976.0,70266.0
+Midwest,East North Central,Indiana,1976.0,16721.0
+Midwest,West North Central,Iowa,1976.0,3813.0000000000005
+Midwest,West North Central,Kansas,1976.0,6528.999999999999
+South,East South Central,Kentucky,1976.0,8987.0
+South,West South Central,Louisiana,1976.0,18161.0
+Northeast,New England,Maine,1976.0,2354.0
+South,South Atlantic,Maryland,1976.0,26249.0
+Northeast,New England,Massachusetts,1976.0,23190.0
+Midwest,East North Central,Michigan,1976.0,58814.0
+Midwest,West North Central,Minnesota,1976.0,7492.0
+South,East South Central,Mississippi,1976.0,6954.000000000001
+Midwest,West North Central,Missouri,1976.0,21470.0
+West,Mountain,Montana,1976.0,1357.9999999999998
+Midwest,West North Central,Nebraska,1976.0,3269.0
+West,Mountain,Nevada,1976.0,4215.0
+Northeast,New England,New Hampshire,1976.0,709.0
+Northeast,Middle Atlantic,New Jersey,1976.0,29107.0
+West,Mountain,New Mexico,1976.0,6475.0
+Northeast,Middle Atlantic,New York,1976.0,156988.0
+South,South Atlantic,North Carolina,1976.0,22061.0
+Midwest,West North Central,North Dakota,1976.0,462.0
+Midwest,East North Central,Ohio,1976.0,41553.0
+South,West South Central,Oklahoma,1976.0,7926.0
+West,Pacific,Oregon,1976.0,10654.0
+Northeast,Middle Atlantic,Pennsylvania,1976.0,34985.0
+Northeast,New England,Rhode Island,1976.0,2779.0000000000005
+South,South Atlantic,South Carolina,1976.0,17065.0
+Midwest,West North Central,South Dakota,1976.0,1277.0
+South,East South Central,Tennessee,1976.0,16574.0
+South,West South Central,Texas,1976.0,44421.99999999999
+West,Mountain,Utah,1976.0,2709.0
+Northeast,New England,Vermont,1976.0,563.0
+South,South Atlantic,Virginia,1976.0,15485.0
+West,Pacific,Washington,1976.0,14036.0
+South,South Atlantic,West Virginia,1976.0,2761.0
+Midwest,East North Central,Wisconsin,1976.0,6345.000000000001
+West,Mountain,Wyoming,1976.0,851.0
+South,East South Central,Alabama,1977.0,15293.0
+West,Pacific,Alaska,1977.0,1804.0
+West,Mountain,Arizona,1977.0,11346.999999999998
+South,West South Central,Arkansas,1977.0,6924.0
+West,Pacific,California,1977.0,154582.0
+West,Mountain,Colorado,1977.0,13407.0
+Northeast,New England,Connecticut,1977.0,8774.0
+South,South Atlantic,Delaware,1977.0,2224.0
+South,South Atlantic,District of Columbia,1977.0,9843.0
+South,South Atlantic,Florida,1977.0,58052.0
+South,South Atlantic,Georgia,1977.0,22203.0
+West,Pacific,Hawaii,1977.0,2012.0
+West,Mountain,Idaho,1977.0,2030.0000000000002
+Midwest,East North Central,Illinois,1977.0,70910.0
+Midwest,East North Central,Indiana,1977.0,16553.0
+Midwest,West North Central,Iowa,1977.0,4145.0
+Midwest,West North Central,Kansas,1977.0,7206.0
+South,East South Central,Kentucky,1977.0,8077.0
+South,West South Central,Louisiana,1977.0,20577.0
+Northeast,New England,Maine,1977.0,2438.0
+South,South Atlantic,Maryland,1977.0,28716.0
+Northeast,New England,Massachusetts,1977.0,24593.0
+Midwest,East North Central,Michigan,1977.0,53381.0
+Midwest,West North Central,Minnesota,1977.0,7705.0
+South,East South Central,Mississippi,1977.0,6896.000000000001
+Midwest,West North Central,Missouri,1977.0,22105.0
+West,Mountain,Montana,1977.0,1659.0
+Midwest,West North Central,Nebraska,1977.0,3113.0
+West,Mountain,Nevada,1977.0,4703.0
+Northeast,New England,New Hampshire,1977.0,960.0
+Northeast,Middle Atlantic,New Jersey,1977.0,28732.0
+West,Mountain,New Mexico,1977.0,5961.0
+Northeast,Middle Atlantic,New York,1977.0,149087.0
+South,South Atlantic,North Carolina,1977.0,22492.0
+Midwest,West North Central,North Dakota,1977.0,438.0
+Midwest,East North Central,Ohio,1977.0,43521.00000000001
+South,West South Central,Oklahoma,1977.0,8899.0
+West,Pacific,Oregon,1977.0,10829.999999999998
+Northeast,Middle Atlantic,Pennsylvania,1977.0,33328.0
+Northeast,New England,Rhode Island,1977.0,2820.0
+South,South Atlantic,South Carolina,1977.0,18297.0
+Midwest,West North Central,South Dakota,1977.0,1303.0
+South,East South Central,Tennessee,1977.0,16743.0
+South,West South Central,Texas,1977.0,52309.0
+West,Mountain,Utah,1977.0,3043.0000000000005
+Northeast,New England,Vermont,1977.0,722.0000000000001
+South,South Atlantic,Virginia,1977.0,14893.0
+West,Pacific,Washington,1977.0,13713.999999999998
+South,South Atlantic,West Virginia,1977.0,2832.0
+Midwest,East North Central,Wisconsin,1977.0,6117.0
+West,Mountain,Wyoming,1977.0,978.0
+South,East South Central,Alabama,1978.0,15682.0
+West,Pacific,Alaska,1978.0,1781.0
+West,Mountain,Arizona,1978.0,12996.0
+South,West South Central,Arkansas,1978.0,7522.0
+West,Pacific,California,1978.0,165626.0
+West,Mountain,Colorado,1978.0,13296.0
+Northeast,New England,Connecticut,1978.0,9762.0
+South,South Atlantic,Delaware,1978.0,2569.0
+South,South Atlantic,District of Columbia,1978.0,9515.0
+South,South Atlantic,Florida,1978.0,65792.0
+South,South Atlantic,Georgia,1978.0,24545.0
+West,Pacific,Hawaii,1978.0,2423.0
+West,Mountain,Idaho,1978.0,2076.0
+Midwest,East North Central,Illinois,1978.0,76084.0
+Midwest,East North Central,Indiana,1978.0,17383.0
+Midwest,West North Central,Iowa,1978.0,4674.0
+Midwest,West North Central,Kansas,1978.0,7471.000000000001
+South,East South Central,Kentucky,1978.0,7807.0
+South,West South Central,Louisiana,1978.0,23197.000000000004
+Northeast,New England,Maine,1978.0,2266.0
+South,South Atlantic,Maryland,1978.0,30328.0
+Northeast,New England,Massachusetts,1978.0,26673.0
+Midwest,East North Central,Michigan,1978.0,53040.0
+Midwest,West North Central,Minnesota,1978.0,7601.0
+South,East South Central,Mississippi,1978.0,7721.0
+Midwest,West North Central,Missouri,1978.0,22737.999999999996
+West,Mountain,Montana,1978.0,1864.9999999999998
+Midwest,West North Central,Nebraska,1978.0,2982.0
+West,Mountain,Nevada,1978.0,5153.0
+Northeast,New England,New Hampshire,1978.0,1035.0
+Northeast,Middle Atlantic,New Jersey,1978.0,31027.0
+West,Mountain,New Mexico,1978.0,6402.000000000001
+Northeast,Middle Atlantic,New York,1978.0,149257.0
+South,South Atlantic,North Carolina,1978.0,23054.0
+Midwest,West North Central,North Dakota,1978.0,437.0
+Midwest,East North Central,Ohio,1978.0,44357.0
+South,West South Central,Oklahoma,1978.0,10165.0
+West,Pacific,Oregon,1978.0,12278.0
+Northeast,Middle Atlantic,Pennsylvania,1978.0,35381.0
+Northeast,New England,Rhode Island,1978.0,3255.0
+South,South Atlantic,South Carolina,1978.0,18604.0
+Midwest,West North Central,South Dakota,1978.0,1128.0
+South,East South Central,Tennessee,1978.0,16671.0
+South,West South Central,Texas,1978.0,56650.0
+West,Mountain,Utah,1978.0,3551.9999999999995
+Northeast,New England,Vermont,1978.0,810.0
+South,South Atlantic,Virginia,1978.0,14743.0
+West,Pacific,Washington,1978.0,15296.0
+South,South Atlantic,West Virginia,1978.0,3120.0
+Midwest,East North Central,Wisconsin,1978.0,6184.000000000001
+West,Mountain,Wyoming,1978.0,1189.0
+South,East South Central,Alabama,1979.0,15578.0
+West,Pacific,Alaska,1979.0,1994.0000000000002
+West,Mountain,Arizona,1979.0,14528.000000000002
+South,West South Central,Arkansas,1979.0,7984.0
+West,Pacific,California,1979.0,184087.0
+West,Mountain,Colorado,1979.0,14471.999999999998
+Northeast,New England,Connecticut,1979.0,12902.0
+South,South Atlantic,Delaware,1979.0,3127.0
+South,South Atlantic,District of Columbia,1979.0,10553.0
+South,South Atlantic,Florida,1979.0,73881.0
+South,South Atlantic,Georgia,1979.0,28594.0
+West,Pacific,Hawaii,1979.0,2651.0
+West,Mountain,Idaho,1979.0,2613.0
+Midwest,East North Central,Illinois,1979.0,83540.0
+Midwest,East North Central,Indiana,1979.0,18254.0
+Midwest,West North Central,Iowa,1979.0,5259.0
+Midwest,West North Central,Kansas,1979.0,8376.0
+South,East South Central,Kentucky,1979.0,8748.0
+South,West South Central,Louisiana,1979.0,27229.0
+Northeast,New England,Maine,1979.0,2221.0
+South,South Atlantic,Maryland,1979.0,33007.0
+Northeast,New England,Massachusetts,1979.0,30650.0
+Midwest,East North Central,Michigan,1979.0,56558.0
+Midwest,West North Central,Minnesota,1979.0,8973.0
+South,East South Central,Mississippi,1979.0,7786.0
+Midwest,West North Central,Missouri,1979.0,25662.0
+West,Mountain,Montana,1979.0,1762.0
+Midwest,West North Central,Nebraska,1979.0,3556.0
+West,Mountain,Nevada,1979.0,5866.0
+Northeast,New England,New Hampshire,1979.0,1241.0
+Northeast,Middle Atlantic,New Jersey,1979.0,36747.0
+West,Mountain,New Mexico,1979.0,7272.0
+Northeast,Middle Atlantic,New York,1979.0,161906.0
+South,South Atlantic,North Carolina,1979.0,25009.0
+Midwest,West North Central,North Dakota,1979.0,403.00000000000006
+Midwest,East North Central,Ohio,1979.0,49092.0
+South,West South Central,Oklahoma,1979.0,11719.0
+West,Pacific,Oregon,1979.0,13781.000000000002
+Northeast,Middle Atlantic,Pennsylvania,1979.0,39133.0
+Northeast,New England,Rhode Island,1979.0,3485.0
+South,South Atlantic,South Carolina,1979.0,19889.0
+Midwest,West North Central,South Dakota,1979.0,1096.0
+South,East South Central,Tennessee,1979.0,18135.0
+South,West South Central,Texas,1979.0,67988.0
+West,Mountain,Utah,1979.0,4158.0
+Northeast,New England,Vermont,1979.0,908.0000000000001
+South,South Atlantic,Virginia,1979.0,15642.000000000002
+West,Pacific,Washington,1979.0,17064.0
+South,South Atlantic,West Virginia,1979.0,3156.0
+Midwest,East North Central,Wisconsin,1979.0,7838.999999999999
+West,Mountain,Wyoming,1979.0,1579.0000000000002
+South,East South Central,Alabama,1980.0,17320.0
+West,Pacific,Alaska,1980.0,1919.0
+West,Mountain,Arizona,1980.0,17673.0
+South,West South Central,Arkansas,1980.0,7656.0
+West,Pacific,California,1980.0,210290.0
+West,Mountain,Colorado,1980.0,15215.0
+Northeast,New England,Connecticut,1980.0,12768.0
+South,South Atlantic,Delaware,1980.0,2824.0
+South,South Atlantic,District of Columbia,1980.0,12772.0
+South,South Atlantic,Florida,1980.0,94095.0
+South,South Atlantic,Georgia,1980.0,29993.0
+West,Pacific,Hawaii,1980.0,2889.0
+West,Mountain,Idaho,1980.0,2957.0000000000005
+Midwest,East North Central,Illinois,1980.0,91753.0
+Midwest,East North Central,Indiana,1980.0,20633.0
+Midwest,West North Central,Iowa,1980.0,5826.0
+Midwest,West North Central,Kansas,1980.0,9168.0
+South,East South Central,Kentucky,1980.0,9711.0
+South,West South Central,Louisiana,1980.0,27926.0
+Northeast,New England,Maine,1980.0,2173.0
+South,South Atlantic,Maryland,1980.0,35735.0
+Northeast,New England,Massachusetts,1980.0,34444.0
+Midwest,East North Central,Michigan,1980.0,59014.0
+Midwest,West North Central,Minnesota,1980.0,9250.0
+South,East South Central,Mississippi,1980.0,8588.0
+Midwest,West North Central,Missouri,1980.0,27177.0
+West,Mountain,Montana,1980.0,1739.9999999999998
+Midwest,West North Central,Nebraska,1980.0,3512.0
+West,Mountain,Nevada,1980.0,7304.000000000001
+Northeast,New England,New Hampshire,1980.0,1653.0
+Northeast,Middle Atlantic,New Jersey,1980.0,44373.0
+West,Mountain,New Mexico,1980.0,7967.0
+Northeast,Middle Atlantic,New York,1980.0,180234.99999999997
+South,South Atlantic,North Carolina,1980.0,26589.0
+Midwest,West North Central,North Dakota,1980.0,352.0
+Midwest,East North Central,Ohio,1980.0,53646.0
+South,West South Central,Oklahoma,1980.0,12589.0
+West,Pacific,Oregon,1980.0,12802.0
+Northeast,Middle Atlantic,Pennsylvania,1980.0,43032.0
+Northeast,New England,Rhode Island,1980.0,3864.0
+South,South Atlantic,South Carolina,1980.0,20225.0
+Midwest,West North Central,South Dakota,1980.0,873.0
+South,East South Central,Tennessee,1980.0,20824.0
+South,West South Central,Texas,1980.0,77978.0
+West,Mountain,Utah,1980.0,4425.0
+Northeast,New England,Vermont,1980.0,914.0
+South,South Atlantic,Virginia,1980.0,16355.000000000002
+West,Pacific,Washington,1980.0,19098.0
+South,South Atlantic,West Virginia,1980.0,3547.0
+Midwest,East North Central,Wisconsin,1980.0,8546.0
+West,Mountain,Wyoming,1980.0,1841.0
+South,East South Central,Alabama,1981.0,18423.0
+West,Pacific,Alaska,1981.0,2537.0
+West,Mountain,Arizona,1981.0,16082.0
+South,West South Central,Arkansas,1981.0,7119.0
+West,Pacific,California,1981.0,208485.0
+West,Mountain,Colorado,1981.0,15755.0
+Northeast,New England,Connecticut,1981.0,14033.0
+South,South Atlantic,Delaware,1981.0,3044.0
+South,South Atlantic,District of Columbia,1981.0,14468.0
+South,South Atlantic,Florida,1981.0,98109.0
+South,South Atlantic,Georgia,1981.0,30527.000000000004
+West,Pacific,Hawaii,1981.0,2424.0
+West,Mountain,Idaho,1981.0,2717.0
+Midwest,East North Central,Illinois,1981.0,90781.00000000001
+Midwest,East North Central,Indiana,1981.0,18672.0
+Midwest,West North Central,Iowa,1981.0,5915.0
+Midwest,West North Central,Kansas,1981.0,8796.0
+South,East South Central,Kentucky,1981.0,10599.0
+South,West South Central,Louisiana,1981.0,27478.0
+Northeast,New England,Maine,1981.0,2214.0
+South,South Atlantic,Maryland,1981.0,37800.0
+Northeast,New England,Massachusetts,1981.0,36273.0
+Midwest,East North Central,Michigan,1981.0,59058.0
+Midwest,West North Central,Minnesota,1981.0,9344.0
+South,East South Central,Mississippi,1981.0,7706.000000000001
+Midwest,West North Central,Missouri,1981.0,26675.0
+West,Mountain,Montana,1981.0,2004.0
+Midwest,West North Central,Nebraska,1981.0,2861.0
+West,Mountain,Nevada,1981.0,7574.999999999999
+Northeast,New England,New Hampshire,1981.0,1375.0000000000002
+Northeast,Middle Atlantic,New Jersey,1981.0,46673.99999999999
+West,Mountain,New Mexico,1981.0,8913.0
+Northeast,Middle Atlantic,New York,1981.0,188178.00000000003
+South,South Atlantic,North Carolina,1981.0,25986.0
+Midwest,West North Central,North Dakota,1981.0,443.99999999999994
+Midwest,East North Central,Ohio,1981.0,53509.0
+South,West South Central,Oklahoma,1981.0,13223.0
+West,Pacific,Oregon,1981.0,12671.0
+Northeast,Middle Atlantic,Pennsylvania,1981.0,44104.0
+Northeast,New England,Rhode Island,1981.0,4205.0
+South,South Atlantic,South Carolina,1981.0,20275.0
+Midwest,West North Central,South Dakota,1981.0,718.0
+South,East South Central,Tennessee,1981.0,19019.0
+South,West South Central,Texas,1981.0,78560.0
+West,Mountain,Utah,1981.0,4527.0
+Northeast,New England,Vermont,1981.0,659.0
+South,South Atlantic,Virginia,1981.0,17456.0
+West,Pacific,Washington,1981.0,18839.0
+South,South Atlantic,West Virginia,1981.0,3410.0
+Midwest,East North Central,Wisconsin,1981.0,8904.0
+West,Mountain,Wyoming,1981.0,2116.0
+South,East South Central,Alabama,1982.0,17653.0
+West,Pacific,Alaska,1982.0,2732.0
+West,Mountain,Arizona,1982.0,14785.0
+South,West South Central,Arkansas,1982.0,7438.0
+West,Pacific,California,1982.0,201428.99999999997
+West,Mountain,Colorado,1982.0,15354.0
+Northeast,New England,Connecticut,1982.0,12597.000000000002
+South,South Atlantic,Delaware,1982.0,3370.0
+South,South Atlantic,District of Columbia,1982.0,13397.0
+South,South Atlantic,Florida,1982.0,93410.99999999999
+South,South Atlantic,Georgia,1982.0,26963.0
+West,Pacific,Hawaii,1982.0,2542.0
+West,Mountain,Idaho,1982.0,2501.0
+Midwest,East North Central,Illinois,1982.0,88644.00000000001
+Midwest,East North Central,Indiana,1982.0,16444.0
+Midwest,West North Central,Iowa,1982.0,5018.0
+Midwest,West North Central,Kansas,1982.0,8088.0
+South,East South Central,Kentucky,1982.0,11550.0
+South,West South Central,Louisiana,1982.0,29185.0
+Northeast,New England,Maine,1982.0,1847.0
+South,South Atlantic,Maryland,1982.0,36254.0
+Northeast,New England,Massachusetts,1982.0,33031.0
+Midwest,East North Central,Michigan,1982.0,59806.0
+Midwest,West North Central,Minnesota,1982.0,9062.0
+South,East South Central,Mississippi,1982.0,7515.0
+Midwest,West North Central,Missouri,1982.0,25078.0
+West,Mountain,Montana,1982.0,1801.0
+Midwest,West North Central,Nebraska,1982.0,3640.9999999999995
+West,Mountain,Nevada,1982.0,7096.0
+Northeast,New England,New Hampshire,1982.0,1187.0
+Northeast,Middle Atlantic,New Jersey,1982.0,45175.00000000001
+West,Mountain,New Mexico,1982.0,9982.0
+Northeast,Middle Atlantic,New York,1982.0,174833.00000000003
+South,South Atlantic,North Carolina,1982.0,26865.0
+Midwest,West North Central,North Dakota,1982.0,414.0
+Midwest,East North Central,Ohio,1982.0,47126.00000000001
+South,West South Central,Oklahoma,1982.0,14103.000000000002
+West,Pacific,Oregon,1982.0,12529.000000000002
+Northeast,Middle Atlantic,Pennsylvania,1982.0,42767.0
+Northeast,New England,Rhode Island,1982.0,3849.0
+South,South Atlantic,South Carolina,1982.0,23060.999999999996
+Midwest,West North Central,South Dakota,1982.0,683.9999999999999
+South,East South Central,Tennessee,1982.0,19586.0
+South,West South Central,Texas,1982.0,88178.0
+West,Mountain,Utah,1982.0,4440.0
+Northeast,New England,Vermont,1982.0,655.0
+South,South Atlantic,Virginia,1982.0,16970.0
+West,Pacific,Washington,1982.0,17251.0
+South,South Atlantic,West Virginia,1982.0,3405.0000000000005
+Midwest,East North Central,Wisconsin,1982.0,9077.0
+West,Mountain,Wyoming,1982.0,1527.0
+South,East South Central,Alabama,1983.0,16471.0
+West,Pacific,Alaska,1983.0,2939.9999999999995
+West,Mountain,Arizona,1983.0,14642.000000000002
+South,West South Central,Arkansas,1983.0,6930.0
+West,Pacific,California,1983.0,194491.0
+West,Mountain,Colorado,1983.0,14955.0
+Northeast,New England,Connecticut,1983.0,11767.0
+South,South Atlantic,Delaware,1983.0,2746.0
+South,South Atlantic,District of Columbia,1983.0,11932.999999999998
+South,South Atlantic,Florida,1983.0,88291.99999999999
+South,South Atlantic,Georgia,1983.0,26179.0
+West,Pacific,Hawaii,1983.0,2579.0
+West,Mountain,Idaho,1983.0,2361.0
+Midwest,East North Central,Illinois,1983.0,83629.0
+Midwest,East North Central,Indiana,1983.0,15547.0
+Midwest,West North Central,Iowa,1983.0,5262.0
+Midwest,West North Central,Kansas,1983.0,7919.000000000001
+South,East South Central,Kentucky,1983.0,11966.999999999998
+South,West South Central,Louisiana,1983.0,28444.0
+Northeast,New England,Maine,1983.0,1828.9999999999998
+South,South Atlantic,Maryland,1983.0,34736.0
+Northeast,New England,Massachusetts,1983.0,33264.0
+Midwest,East North Central,Michigan,1983.0,64993.0
+Midwest,West North Central,Minnesota,1983.0,7909.0
+South,East South Central,Mississippi,1983.0,7255.0
+Midwest,West North Central,Missouri,1983.0,23718.0
+West,Mountain,Montana,1983.0,1737.0000000000002
+Midwest,West North Central,Nebraska,1983.0,3477.0000000000005
+West,Mountain,Nevada,1983.0,5838.0
+Northeast,New England,New Hampshire,1983.0,1200.0
+Northeast,Middle Atlantic,New Jersey,1983.0,41304.0
+West,Mountain,New Mexico,1983.0,9608.0
+Northeast,Middle Atlantic,New York,1983.0,161489.0
+South,South Atlantic,North Carolina,1983.0,24911.0
+Midwest,West North Central,North Dakota,1983.0,364.99999999999994
+Midwest,East North Central,Ohio,1983.0,42759.0
+South,West South Central,Oklahoma,1983.0,13964.0
+West,Pacific,Oregon,1983.0,12986.0
+Northeast,Middle Atlantic,Pennsylvania,1983.0,40782.0
+Northeast,New England,Rhode Island,1983.0,3392.0
+South,South Atlantic,South Carolina,1983.0,20133.0
+Midwest,West North Central,South Dakota,1983.0,840.0
+South,East South Central,Tennessee,1983.0,18836.0
+South,West South Central,Texas,1983.0,80546.0
+West,Mountain,Utah,1983.0,4144.0
+Northeast,New England,Vermont,1983.0,696.0
+South,South Atlantic,Virginia,1983.0,16236.0
+West,Pacific,Washington,1983.0,15986.0
+South,South Atlantic,West Virginia,1983.0,3375.0
+Midwest,East North Central,Wisconsin,1983.0,9070.0
+West,Mountain,Wyoming,1983.0,1219.0
+South,East South Central,Alabama,1984.0,17204.0
+West,Pacific,Alaska,1984.0,3108.0
+West,Mountain,Arizona,1984.0,15756.0
+South,West South Central,Arkansas,1984.0,7549.0
+West,Pacific,California,1984.0,195589.0
+West,Mountain,Colorado,1984.0,14548.0
+Northeast,New England,Connecticut,1984.0,12422.0
+South,South Atlantic,Delaware,1984.0,2671.0
+South,South Atlantic,District of Columbia,1984.0,10725.0
+South,South Atlantic,Florida,1984.0,95270.0
+South,South Atlantic,Georgia,1984.0,27935.0
+West,Pacific,Hawaii,1984.0,2409.0
+West,Mountain,Idaho,1984.0,2355.0
+Midwest,East North Central,Illinois,1984.0,83441.0
+Midwest,East North Central,Indiana,1984.0,16781.0
+Midwest,West North Central,Iowa,1984.0,5781.0
+Midwest,West North Central,Kansas,1984.0,8147.0
+South,East South Central,Kentucky,1984.0,10342.0
+South,West South Central,Louisiana,1984.0,30251.000000000004
+Northeast,New England,Maine,1984.0,1831.9999999999998
+South,South Atlantic,Maryland,1984.0,34455.0
+Northeast,New England,Massachusetts,1984.0,30362.0
+Midwest,East North Central,Michigan,1984.0,68979.0
+Midwest,West North Central,Minnesota,1984.0,8802.0
+South,East South Central,Mississippi,1984.0,7326.0
+Midwest,West North Central,Missouri,1984.0,23071.0
+West,Mountain,Montana,1984.0,1958.0
+Midwest,West North Central,Nebraska,1984.0,3627.0
+West,Mountain,Nevada,1984.0,5726.0
+Northeast,New England,New Hampshire,1984.0,1308.0
+Northeast,Middle Atlantic,New Jersey,1984.0,39659.0
+West,Mountain,New Mexico,1984.0,9798.0
+Northeast,Middle Atlantic,New York,1984.0,162157.0
+South,South Atlantic,North Carolina,1984.0,24885.0
+Midwest,West North Central,North Dakota,1984.0,368.0
+Midwest,East North Central,Ohio,1984.0,41430.0
+South,West South Central,Oklahoma,1984.0,13437.999999999998
+West,Pacific,Oregon,1984.0,13533.0
+Northeast,Middle Atlantic,Pennsylvania,1984.0,38154.0
+Northeast,New England,Rhode Island,1984.0,3220.0
+South,South Atlantic,South Carolina,1984.0,20607.0
+Midwest,West North Central,South Dakota,1984.0,1041.0
+South,East South Central,Tennessee,1984.0,21010.0
+South,West South Central,Texas,1984.0,80737.0
+West,Mountain,Utah,1984.0,4035.0
+Northeast,New England,Vermont,1984.0,769.0
+South,South Atlantic,Virginia,1984.0,16660.0
+West,Pacific,Washington,1984.0,17676.0
+South,South Atlantic,West Virginia,1984.0,3283.0
+Midwest,East North Central,Wisconsin,1984.0,9367.0
+West,Mountain,Wyoming,1984.0,1237.0
+South,East South Central,Alabama,1985.0,18398.0
+West,Pacific,Alaska,1985.0,3031.0
+West,Mountain,Arizona,1985.0,19202.0
+South,West South Central,Arkansas,1985.0,8199.0
+West,Pacific,California,1985.0,201763.0
+West,Mountain,Colorado,1985.0,15218.999999999998
+Northeast,New England,Connecticut,1985.0,12758.000000000002
+South,South Atlantic,Delaware,1985.0,2695.0
+South,South Atlantic,District of Columbia,1985.0,10171.0
+South,South Atlantic,Florida,1985.0,106971.0
+South,South Atlantic,Georgia,1985.0,30311.0
+West,Pacific,Hawaii,1985.0,2313.0
+West,Mountain,Idaho,1985.0,2360.0
+Midwest,East North Central,Illinois,1985.0,82448.0
+Midwest,East North Central,Indiana,1985.0,17014.0
+Midwest,West North Central,Iowa,1985.0,6106.0
+Midwest,West North Central,Kansas,1985.0,8716.0
+South,East South Central,Kentucky,1985.0,11384.0
+South,West South Central,Louisiana,1985.0,31108.0
+Northeast,New England,Maine,1985.0,1950.0
+South,South Atlantic,Maryland,1985.0,36655.0
+Northeast,New England,Massachusetts,1985.0,31333.999999999996
+Midwest,East North Central,Michigan,1985.0,66714.0
+Midwest,West North Central,Minnesota,1985.0,10751.0
+South,East South Central,Mississippi,1985.0,7079.0
+Midwest,West North Central,Missouri,1985.0,25321.0
+West,Mountain,Montana,1985.0,1722.0
+Midwest,West North Central,Nebraska,1985.0,3821.0
+West,Mountain,Nevada,1985.0,6244.0
+Northeast,New England,New Hampshire,1985.0,1405.0
+Northeast,Middle Atlantic,New Jersey,1985.0,41172.0
+West,Mountain,New Mexico,1985.0,10207.0
+Northeast,Middle Atlantic,New York,1985.0,165365.0
+South,South Atlantic,North Carolina,1985.0,26327.0
+Midwest,West North Central,North Dakota,1985.0,322.0
+Midwest,East North Central,Ohio,1985.0,41000.0
+South,West South Central,Oklahoma,1985.0,13930.000000000002
+West,Pacific,Oregon,1985.0,14807.0
+Northeast,Middle Atlantic,Pennsylvania,1985.0,39240.0
+Northeast,New England,Rhode Island,1985.0,3355.0
+South,South Atlantic,South Carolina,1985.0,21121.0
+Midwest,West North Central,South Dakota,1985.0,967.0
+South,East South Central,Tennessee,1985.0,22592.0
+South,West South Central,Texas,1985.0,90030.0
+West,Mountain,Utah,1985.0,4398.0
+Northeast,New England,Vermont,1985.0,790.0
+South,South Atlantic,Virginia,1985.0,16813.0
+West,Pacific,Washington,1985.0,18757.0
+South,South Atlantic,West Virginia,1985.0,3214.0
+Midwest,East North Central,Wisconsin,1985.0,9880.0
+West,Mountain,Wyoming,1985.0,1307.0
+South,East South Central,Alabama,1986.0,22616.0
+West,Pacific,Alaska,1986.0,3046.0000000000005
+West,Mountain,Arizona,1986.0,21835.0
+South,West South Central,Arkansas,1986.0,9365.0
+West,Pacific,California,1986.0,248370.0
+West,Mountain,Colorado,1986.0,17105.0
+Northeast,New England,Connecticut,1986.0,13578.0
+South,South Atlantic,Delaware,1986.0,2703.0
+South,South Atlantic,District of Columbia,1986.0,9423.0
+South,South Atlantic,Florida,1986.0,121013.0
+South,South Atlantic,Georgia,1986.0,35869.0
+West,Pacific,Hawaii,1986.0,2604.0
+West,Mountain,Idaho,1986.0,2232.0
+Midwest,East North Central,Illinois,1986.0,93454.0
+Midwest,East North Central,Indiana,1986.0,16937.0
+Midwest,West North Central,Iowa,1986.0,6703.0
+Midwest,West North Central,Kansas,1986.0,9076.0
+South,East South Central,Kentucky,1986.0,12467.0
+South,West South Central,Louisiana,1986.0,34128.0
+Northeast,New England,Maine,1986.0,1726.0
+South,South Atlantic,Maryland,1986.0,37177.0
+Northeast,New England,Massachusetts,1986.0,32476.0
+Midwest,East North Central,Michigan,1986.0,73517.0
+Midwest,West North Central,Minnesota,1986.0,11991.0
+South,East South Central,Mississippi,1986.0,7196.0
+Midwest,West North Central,Missouri,1986.0,29309.999999999996
+West,Mountain,Montana,1986.0,1289.0
+Midwest,West North Central,Nebraska,1986.0,4196.0
+West,Mountain,Nevada,1986.0,6923.0
+Northeast,New England,New Hampshire,1986.0,1433.0
+Northeast,Middle Atlantic,New Jersey,1986.0,43623.0
+West,Mountain,New Mexico,1986.0,10731.0
+Northeast,Middle Atlantic,New York,1986.0,175210.0
+South,South Atlantic,North Carolina,1986.0,30128.0
+Midwest,West North Central,North Dakota,1986.0,348.0
+Midwest,East North Central,Ohio,1986.0,45260.0
+South,West South Central,Oklahoma,1986.0,14423.0
+West,Pacific,Oregon,1986.0,14830.0
+Northeast,Middle Atlantic,Pennsylvania,1986.0,42629.0
+Northeast,New England,Rhode Island,1986.0,3271.0
+South,South Atlantic,South Carolina,1986.0,22789.0
+Midwest,West North Central,South Dakota,1986.0,883.0
+South,East South Central,Tennessee,1986.0,25919.0
+South,West South Central,Texas,1986.0,109925.0
+West,Mountain,Utah,1986.0,4441.0
+Northeast,New England,Vermont,1986.0,807.0
+South,South Atlantic,Virginia,1986.0,17708.0
+West,Pacific,Washington,1986.0,19505.0
+South,South Atlantic,West Virginia,1986.0,3156.0
+Midwest,East North Central,Wisconsin,1986.0,12339.0
+West,Mountain,Wyoming,1986.0,1486.0
+South,East South Central,Alabama,1987.0,22833.0
+West,Pacific,Alaska,1987.0,2391.0
+West,Mountain,Arizona,1987.0,20742.0
+South,West South Central,Arkansas,1987.0,9839.0
+West,Pacific,California,1987.0,253943.0
+West,Mountain,Colorado,1987.0,15409.0
+Northeast,New England,Connecticut,1987.0,13455.0
+South,South Atlantic,Delaware,1987.0,2774.0
+South,South Atlantic,District of Columbia,1987.0,10016.0
+South,South Atlantic,Florida,1987.0,123168.0
+South,South Atlantic,Georgia,1987.0,35868.0
+West,Pacific,Hawaii,1987.0,2850.9999999999995
+West,Mountain,Idaho,1987.0,2138.0
+Midwest,East North Central,Illinois,1987.0,92216.0
+Midwest,East North Central,Indiana,1987.0,18169.0
+Midwest,West North Central,Iowa,1987.0,6553.0
+Midwest,West North Central,Kansas,1987.0,8932.0
+South,East South Central,Kentucky,1987.0,12589.0
+South,West South Central,Louisiana,1987.0,30916.000000000004
+Northeast,New England,Maine,1987.0,1806.0000000000002
+South,South Atlantic,Maryland,1987.0,34820.0
+Northeast,New England,Massachusetts,1987.0,33060.0
+Midwest,East North Central,Michigan,1987.0,71772.0
+Midwest,West North Central,Minnesota,1987.0,12118.0
+South,East South Central,Mississippi,1987.0,7080.999999999999
+Midwest,West North Central,Missouri,1987.0,27792.000000000004
+West,Mountain,Montana,1987.0,1223.0
+Midwest,West North Central,Nebraska,1987.0,4004.0
+West,Mountain,Nevada,1987.0,7005.999999999999
+Northeast,New England,New Hampshire,1987.0,1581.0
+Northeast,Middle Atlantic,New Jersey,1987.0,41507.0
+West,Mountain,New Mexico,1987.0,9427.0
+Northeast,Middle Atlantic,New York,1987.0,179690.99999999997
+South,South Atlantic,North Carolina,1987.0,31039.0
+Midwest,West North Central,North Dakota,1987.0,382.0
+Midwest,East North Central,Ohio,1987.0,45436.0
+South,West South Central,Oklahoma,1987.0,13664.0
+West,Pacific,Oregon,1987.0,14697.0
+Northeast,Middle Atlantic,Pennsylvania,1987.0,44087.0
+Northeast,New England,Rhode Island,1987.0,3547.0
+South,South Atlantic,South Carolina,1987.0,22773.0
+Midwest,West North Central,South Dakota,1987.0,849.0
+South,East South Central,Tennessee,1987.0,25900.0
+South,West South Central,Texas,1987.0,105960.99999999999
+West,Mountain,Utah,1987.0,3861.0
+Northeast,New England,Vermont,1987.0,748.0
+South,South Atlantic,Virginia,1987.0,17414.0
+West,Pacific,Washington,1987.0,19945.0
+South,South Atlantic,West Virginia,1987.0,2605.0
+Midwest,East North Central,Wisconsin,1987.0,12014.0
+West,Mountain,Wyoming,1987.0,1387.0
+South,East South Central,Alabama,1988.0,23052.0
+West,Pacific,Alaska,1988.0,2682.0
+West,Mountain,Arizona,1988.0,21147.0
+South,West South Central,Arkansas,1988.0,10237.0
+West,Pacific,California,1988.0,261912.0
+West,Mountain,Colorado,1988.0,15548.0
+Northeast,New England,Connecticut,1988.0,14758.999999999998
+South,South Atlantic,Delaware,1988.0,2981.0
+South,South Atlantic,District of Columbia,1988.0,11914.0
+South,South Atlantic,Florida,1988.0,138343.0
+South,South Atlantic,Georgia,1988.0,42589.0
+West,Pacific,Hawaii,1988.0,2810.0
+West,Mountain,Idaho,1988.0,2345.0
+Midwest,East North Central,Illinois,1988.0,93556.99999999999
+Midwest,East North Central,Indiana,1988.0,21187.0
+Midwest,West North Central,Iowa,1988.0,7279.0
+Midwest,West North Central,Kansas,1988.0,9083.0
+South,East South Central,Kentucky,1988.0,12284.0
+South,West South Central,Louisiana,1988.0,31711.0
+Northeast,New England,Maine,1988.0,1897.9999999999998
+South,South Atlantic,Maryland,1988.0,37466.0
+Northeast,New England,Massachusetts,1988.0,36376.0
+Midwest,East North Central,Michigan,1988.0,68980.0
+Midwest,West North Central,Minnesota,1988.0,12490.0
+South,East South Central,Mississippi,1988.0,8544.0
+Midwest,West North Central,Missouri,1988.0,28392.999999999996
+West,Mountain,Montana,1988.0,989.0
+Midwest,West North Central,Nebraska,1988.0,4374.0
+West,Mountain,Nevada,1988.0,8275.0
+Northeast,New England,New Hampshire,1988.0,1622.0000000000002
+Northeast,Middle Atlantic,New Jersey,1988.0,44992.99999999999
+West,Mountain,New Mexico,1988.0,9938.0
+Northeast,Middle Atlantic,New York,1988.0,196396.0
+South,South Atlantic,North Carolina,1988.0,32753.0
+Midwest,West North Central,North Dakota,1988.0,392.0
+Midwest,East North Central,Ohio,1988.0,49144.0
+South,West South Central,Oklahoma,1988.0,14179.0
+West,Pacific,Oregon,1988.0,14959.0
+Northeast,Middle Atlantic,Pennsylvania,1988.0,43534.0
+Northeast,New England,Rhode Island,1988.0,3947.0
+South,South Atlantic,South Carolina,1988.0,25889.0
+Midwest,West North Central,South Dakota,1988.0,813.0
+South,East South Central,Tennessee,1988.0,26205.000000000004
+South,West South Central,Texas,1988.0,109498.99999999999
+West,Mountain,Utah,1988.0,4110.0
+Northeast,New England,Vermont,1988.0,790.9999999999999
+South,South Atlantic,Virginia,1988.0,17940.0
+West,Pacific,Washington,1988.0,21543.0
+South,South Atlantic,West Virginia,1988.0,2476.0
+Midwest,East North Central,Wisconsin,1988.0,10414.0
+West,Mountain,Wyoming,1988.0,1479.0
+South,East South Central,Alabama,1989.0,24329.0
+West,Pacific,Alaska,1989.0,2623.0
+West,Mountain,Arizona,1989.0,21320.0
+South,West South Central,Arkansas,1989.0,11397.0
+West,Pacific,California,1989.0,284136.0
+West,Mountain,Colorado,1989.0,15636.0
+Northeast,New England,Connecticut,1989.0,16576.0
+South,South Atlantic,Delaware,1989.0,3745.0
+South,South Atlantic,District of Columbia,1989.0,12937.0
+South,South Atlantic,Florida,1989.0,140575.0
+South,South Atlantic,Georgia,1989.0,47357.0
+West,Pacific,Hawaii,1989.0,3004.0
+West,Mountain,Idaho,1989.0,2582.0
+Midwest,East North Central,Illinois,1989.0,98611.0
+Midwest,East North Central,Indiana,1989.0,22735.000000000004
+Midwest,West North Central,Iowa,1989.0,7562.999999999999
+Midwest,West North Central,Kansas,1989.0,10073.0
+South,East South Central,Kentucky,1989.0,13302.0
+South,West South Central,Louisiana,1989.0,34257.0
+Northeast,New England,Maine,1989.0,1676.0
+South,South Atlantic,Maryland,1989.0,40152.0
+Northeast,New England,Massachusetts,1989.0,39912.0
+Midwest,East North Central,Michigan,1989.0,65760.0
+Midwest,West North Central,Minnesota,1989.0,12549.0
+South,East South Central,Mississippi,1989.0,8156.0
+Midwest,West North Central,Missouri,1989.0,32634.0
+West,Mountain,Montana,1989.0,935.0
+Midwest,West North Central,Nebraska,1989.0,4503.0
+West,Mountain,Nevada,1989.0,6947.0
+Northeast,New England,New Hampshire,1989.0,1864.9999999999998
+Northeast,Middle Atlantic,New Jersey,1989.0,47110.99999999999
+West,Mountain,New Mexico,1989.0,10755.0
+Northeast,Middle Atlantic,New York,1989.0,203042.0
+South,South Atlantic,North Carolina,1989.0,35902.0
+Midwest,West North Central,North Dakota,1989.0,417.00000000000006
+Midwest,East North Central,Ohio,1989.0,51108.99999999999
+South,West South Central,Oklahoma,1989.0,15847.0
+West,Pacific,Oregon,1989.0,14625.0
+Northeast,Middle Atlantic,Pennsylvania,1989.0,45586.0
+Northeast,New England,Rhode Island,1989.0,3772.0
+South,South Atlantic,South Carolina,1989.0,28575.999999999996
+Midwest,West North Central,South Dakota,1989.0,969.0000000000001
+South,East South Central,Tennessee,1989.0,27118.0
+South,West South Central,Texas,1989.0,111889.0
+West,Mountain,Utah,1989.0,4417.0
+Northeast,New England,Vermont,1989.0,752.9999999999999
+South,South Atlantic,Virginia,1989.0,19057.0
+West,Pacific,Washington,1989.0,22460.000000000004
+South,South Atlantic,West Virginia,1989.0,2724.0
+Midwest,East North Central,Wisconsin,1989.0,10834.0
+West,Mountain,Wyoming,1989.0,1227.0
+South,East South Central,Alabama,1990.0,28630.0
+West,Pacific,Alaska,1990.0,2885.0000000000005
+West,Mountain,Arizona,1990.0,23910.999999999996
+South,West South Central,Arkansas,1990.0,12511.0
+West,Pacific,California,1990.0,311051.0
+West,Mountain,Colorado,1990.0,17328.0
+Northeast,New England,Connecticut,1990.0,18201.0
+South,South Atlantic,Delaware,1990.0,4365.0
+South,South Atlantic,District of Columbia,1990.0,14919.000000000002
+South,South Atlantic,Florida,1990.0,160990.0
+South,South Atlantic,Georgia,1990.0,48996.0
+West,Pacific,Hawaii,1990.0,3113.0
+West,Mountain,Idaho,1990.0,2776.0000000000005
+Midwest,East North Central,Illinois,1990.0,110575.0
+Midwest,East North Central,Indiana,1990.0,26275.000000000004
+Midwest,West North Central,Iowa,1990.0,8321.0
+Midwest,West North Central,Kansas,1990.0,11093.000000000002
+South,East South Central,Kentucky,1990.0,14386.0
+South,West South Central,Louisiana,1990.0,37914.0
+Northeast,New England,Maine,1990.0,1759.0
+South,South Atlantic,Maryland,1990.0,43940.0
+Northeast,New England,Massachusetts,1990.0,44300.0
+Midwest,East North Central,Michigan,1990.0,73468.0
+Midwest,West North Central,Minnesota,1990.0,13391.999999999998
+South,East South Central,Mississippi,1990.0,8758.0
+Midwest,West North Central,Missouri,1990.0,36602.0
+West,Mountain,Montana,1990.0,1273.0
+Midwest,West North Central,Nebraska,1990.0,5209.0
+West,Mountain,Nevada,1990.0,7222.0
+Northeast,New England,New Hampshire,1990.0,1459.0
+Northeast,Middle Atlantic,New Jersey,1990.0,50057.0
+West,Mountain,New Mexico,1990.0,11821.0
+Northeast,Middle Atlantic,New York,1990.0,212458.00000000003
+South,South Atlantic,North Carolina,1990.0,41332.0
+Midwest,West North Central,North Dakota,1990.0,471.99999999999994
+Midwest,East North Central,Ohio,1990.0,54904.0
+South,West South Central,Oklahoma,1990.0,17222.0
+West,Pacific,Oregon,1990.0,14405.0
+Northeast,Middle Atlantic,Pennsylvania,1990.0,51213.0
+Northeast,New England,Rhode Island,1990.0,4334.0
+South,South Atlantic,South Carolina,1990.0,34050.0
+Midwest,West North Central,South Dakota,1990.0,1133.0
+South,East South Central,Tennessee,1990.0,32698.0
+South,West South Central,Texas,1990.0,129343.00000000001
+West,Mountain,Utah,1990.0,4892.0
+Northeast,New England,Vermont,1990.0,716.0
+South,South Atlantic,Virginia,1990.0,21694.0
+West,Pacific,Washington,1990.0,24410.0
+South,South Atlantic,West Virginia,1990.0,3036.0
+Midwest,East North Central,Wisconsin,1990.0,12948.0
+West,Mountain,Wyoming,1990.0,1367.0
+South,East South Central,Alabama,1991.0,34518.0
+West,Pacific,Alaska,1991.0,3499.0
+West,Mountain,Arizona,1991.0,25151.999999999996
+South,West South Central,Arkansas,1991.0,14072.0
+West,Pacific,California,1991.0,331122.0
+West,Mountain,Colorado,1991.0,18887.0
+Northeast,New England,Connecticut,1991.0,17761.0
+South,South Atlantic,Delaware,1991.0,4857.0
+South,South Atlantic,District of Columbia,1991.0,14671.0
+South,South Atlantic,Florida,1991.0,157243.0
+South,South Atlantic,Georgia,1991.0,48894.0
+West,Pacific,Hawaii,1991.0,2744.0
+West,Mountain,Idaho,1991.0,3016.0
+Midwest,East North Central,Illinois,1991.0,119955.0
+Midwest,East North Central,Indiana,1991.0,28349.0
+Midwest,West North Central,Iowa,1991.0,8477.0
+Midwest,West North Central,Kansas,1991.0,12465.0
+South,East South Central,Kentucky,1991.0,16262.000000000002
+South,West South Central,Louisiana,1991.0,40438.0
+Northeast,New England,Maine,1991.0,1631.0
+South,South Atlantic,Maryland,1991.0,46468.99999999999
+Northeast,New England,Massachusetts,1991.0,44138.00000000001
+Midwest,East North Central,Michigan,1991.0,75232.0
+Midwest,West North Central,Minnesota,1991.0,14006.0
+South,East South Central,Mississippi,1991.0,10085.0
+Midwest,West North Central,Missouri,1991.0,39358.0
+West,Mountain,Montana,1991.0,1130.0
+Midwest,West North Central,Nebraska,1991.0,5330.0
+West,Mountain,Nevada,1991.0,8693.0
+Northeast,New England,New Hampshire,1991.0,1318.0
+Northeast,Middle Atlantic,New Jersey,1991.0,49257.0
+West,Mountain,New Mexico,1991.0,12922.0
+Northeast,Middle Atlantic,New York,1991.0,210184.0
+South,South Atlantic,North Carolina,1991.0,44355.0
+Midwest,West North Central,North Dakota,1991.0,415.0
+Midwest,East North Central,Ohio,1991.0,61460.0
+South,West South Central,Oklahoma,1991.0,18533.0
+West,Pacific,Oregon,1991.0,14795.0
+Northeast,Middle Atlantic,Pennsylvania,1991.0,53824.0
+Northeast,New England,Rhode Island,1991.0,4638.0
+South,South Atlantic,South Carolina,1991.0,34621.0
+Midwest,West North Central,South Dakota,1991.0,1281.0
+South,East South Central,Tennessee,1991.0,35955.0
+South,West South Central,Texas,1991.0,145743.0
+West,Mountain,Utah,1991.0,5077.0
+Northeast,New England,Vermont,1991.0,662.0
+South,South Atlantic,Virginia,1991.0,23459.0
+West,Pacific,Washington,1991.0,26224.0
+South,South Atlantic,West Virginia,1991.0,3439.9999999999995
+Midwest,East North Central,Wisconsin,1991.0,13723.000000000002
+West,Mountain,Wyoming,1991.0,1426.9999999999998
+South,East South Central,Alabama,1991.9999999999998,36052.0
+West,Pacific,Alaska,1991.9999999999998,3877.0
+West,Mountain,Arizona,1991.9999999999998,25706.0
+South,West South Central,Arkansas,1991.9999999999998,13831.0
+West,Pacific,California,1991.9999999999998,345623.99999999994
+West,Mountain,Colorado,1991.9999999999998,20086.0
+Northeast,New England,Connecticut,1991.9999999999998,16251.999999999998
+South,South Atlantic,Delaware,1991.9999999999998,4280.0
+South,South Atlantic,District of Columbia,1991.9999999999998,16685.0
+South,South Atlantic,Florida,1991.9999999999998,162827.0
+South,South Atlantic,Georgia,1991.9999999999998,49496.0
+West,Pacific,Hawaii,1991.9999999999998,2998.0
+West,Mountain,Idaho,1991.9999999999998,3003.0000000000005
+Midwest,East North Central,Illinois,1991.9999999999998,113663.99999999999
+Midwest,East North Central,Indiana,1991.9999999999998,28791.0
+Midwest,West North Central,Iowa,1991.9999999999998,7815.999999999999
+Midwest,West North Central,Kansas,1991.9999999999998,12888.0
+South,East South Central,Kentucky,1991.9999999999998,20107.0
+South,West South Central,Louisiana,1991.9999999999998,42209.0
+Northeast,New England,Maine,1991.9999999999998,1616.0
+South,South Atlantic,Maryland,1991.9999999999998,49084.99999999999
+Northeast,New England,Massachusetts,1991.9999999999998,46727.0
+Midwest,East North Central,Michigan,1991.9999999999998,72672.0
+Midwest,West North Central,Minnesota,1991.9999999999998,15144.0
+South,East South Central,Mississippi,1991.9999999999998,10763.0
+Midwest,West North Central,Missouri,1991.9999999999998,38448.0
+West,Mountain,Montana,1991.9999999999998,1400.0
+Midwest,West North Central,Nebraska,1991.9999999999998,5598.000000000001
+West,Mountain,Nevada,1991.9999999999998,9247.0
+Northeast,New England,New Hampshire,1991.9999999999998,1397.0
+Northeast,Middle Atlantic,New Jersey,1991.9999999999998,48745.0
+West,Mountain,New Mexico,1991.9999999999998,14781.000000000002
+Northeast,Middle Atlantic,New York,1991.9999999999998,203310.99999999997
+South,South Atlantic,North Carolina,1991.9999999999998,46600.0
+Midwest,West North Central,North Dakota,1991.9999999999998,530.0
+Midwest,East North Central,Ohio,1991.9999999999998,57935.0
+South,West South Central,Oklahoma,1991.9999999999998,20005.0
+West,Pacific,Oregon,1991.9999999999998,15189.0
+Northeast,Middle Atlantic,Pennsylvania,1991.9999999999998,51276.0
+Northeast,New England,Rhode Island,1991.9999999999998,3965.0000000000005
+South,South Atlantic,South Carolina,1991.9999999999998,34029.0
+Midwest,West North Central,South Dakota,1991.9999999999998,1383.0
+South,East South Central,Tennessee,1991.9999999999998,37487.0
+South,West South Central,Texas,1991.9999999999998,142369.0
+West,Mountain,Utah,1991.9999999999998,5267.0
+Northeast,New England,Vermont,1991.9999999999998,624.0
+South,South Atlantic,Virginia,1991.9999999999998,23907.000000000004
+West,Pacific,Washington,1991.9999999999998,27454.0
+South,South Atlantic,West Virginia,1991.9999999999998,3833.0000000000005
+Midwest,East North Central,Wisconsin,1991.9999999999998,13806.0
+West,Mountain,Wyoming,1991.9999999999998,1489.0
+South,East South Central,Alabama,1993.0,32676.0
+West,Pacific,Alaska,1993.0,4557.0
+West,Mountain,Arizona,1993.0,28142.0
+South,West South Central,Arkansas,1993.0,14381.0
+West,Pacific,California,1993.0,336381.0
+West,Mountain,Colorado,1993.0,20229.0
+Northeast,New England,Connecticut,1993.0,14949.0
+South,South Atlantic,Delaware,1993.0,4801.0
+South,South Atlantic,District of Columbia,1993.0,16888.0
+South,South Atlantic,Florida,1993.0,164975.0
+South,South Atlantic,Georgia,1993.0,50019.0
+West,Pacific,Hawaii,1993.0,3061.0
+West,Mountain,Idaho,1993.0,3097.0
+Midwest,East North Central,Illinois,1993.0,112260.0
+Midwest,East North Central,Indiana,1993.0,27941.0
+Midwest,West North Central,Iowa,1993.0,9159.0
+Midwest,West North Central,Kansas,1993.0,12563.999999999998
+South,East South Central,Kentucky,1993.0,17530.0
+South,West South Central,Louisiana,1993.0,45600.0
+Northeast,New England,Maine,1993.0,1558.0
+South,South Atlantic,Maryland,1993.0,49540.0
+Northeast,New England,Massachusetts,1993.0,48393.00000000001
+Midwest,East North Central,Michigan,1993.0,75021.0
+Midwest,West North Central,Minnesota,1993.0,15986.0
+South,East South Central,Mississippi,1993.0,11467.0
+Midwest,West North Central,Missouri,1993.0,38963.0
+West,Mountain,Montana,1993.0,1489.0
+Midwest,West North Central,Nebraska,1993.0,6071.0
+West,Mountain,Nevada,1993.0,12157.0
+Northeast,New England,New Hampshire,1993.0,1550.0
+Northeast,Middle Atlantic,New Jersey,1993.0,49390.0
+West,Mountain,New Mexico,1993.0,15024.0
+Northeast,Middle Atlantic,New York,1993.0,195352.0
+South,South Atlantic,North Carolina,1993.0,47177.99999999999
+Midwest,West North Central,North Dakota,1993.0,522.0
+Midwest,East North Central,Ohio,1993.0,55915.0
+South,West South Central,Oklahoma,1993.0,20512.0
+West,Pacific,Oregon,1993.0,15254.0
+Northeast,Middle Atlantic,Pennsylvania,1993.0,50295.0
+Northeast,New England,Rhode Island,1993.0,4017.0000000000005
+South,South Atlantic,South Carolina,1993.0,37281.0
+Midwest,West North Central,South Dakota,1993.0,1490.0000000000002
+South,East South Central,Tennessee,1993.0,39047.0
+South,West South Central,Texas,1993.0,137419.0
+West,Mountain,Utah,1993.0,5599.0
+Northeast,New England,Vermont,1993.0,658.0
+South,South Atlantic,Virginia,1993.0,24160.000000000004
+West,Pacific,Washington,1993.0,27040.0
+South,South Atlantic,West Virginia,1993.0,3792.9999999999995
+Midwest,East North Central,Wisconsin,1993.0,13321.000000000002
+West,Mountain,Wyoming,1993.0,1345.0
+South,East South Central,Alabama,1993.9999999999998,28844.0
+West,Pacific,Alaska,1993.9999999999998,4644.0
+West,Mountain,Arizona,1993.9999999999998,28653.0
+South,West South Central,Arkansas,1993.9999999999998,14597.999999999998
+West,Pacific,California,1993.9999999999998,318395.0
+West,Mountain,Colorado,1993.9999999999998,18632.0
+Northeast,New England,Connecticut,1993.9999999999998,14916.0
+South,South Atlantic,Delaware,1993.9999999999998,4549.0
+South,South Atlantic,District of Columbia,1993.9999999999998,15177.0
+South,South Atlantic,Florida,1993.9999999999998,160016.0
+South,South Atlantic,Georgia,1993.9999999999998,47103.00000000001
+West,Pacific,Hawaii,1993.9999999999998,3091.0
+West,Mountain,Idaho,1993.9999999999998,3238.0
+Midwest,East North Central,Illinois,1993.9999999999998,112927.99999999999
+Midwest,East North Central,Indiana,1993.9999999999998,30205.000000000004
+Midwest,West North Central,Iowa,1993.9999999999998,8914.0
+Midwest,West North Central,Kansas,1993.9999999999998,11314.0
+South,East South Central,Kentucky,1993.9999999999998,16991.0
+South,West South Central,Louisiana,1993.9999999999998,42369.0
+Northeast,New England,Maine,1993.9999999999998,1611.0
+South,South Atlantic,Maryland,1993.9999999999998,47457.0
+Northeast,New England,Massachusetts,1993.9999999999998,42749.0
+Midwest,East North Central,Michigan,1993.9999999999998,72751.0
+Midwest,West North Central,Minnesota,1993.9999999999998,16397.0
+South,East South Central,Mississippi,1993.9999999999998,13177.0
+Midwest,West North Central,Missouri,1993.9999999999998,39240.0
+West,Mountain,Montana,1993.9999999999998,1515.9999999999998
+Midwest,West North Central,Nebraska,1993.9999999999998,6322.000000000001
+West,Mountain,Nevada,1993.9999999999998,14597.000000000002
+Northeast,New England,New Hampshire,1993.9999999999998,1328.0
+Northeast,Middle Atlantic,New Jersey,1993.9999999999998,48544.0
+West,Mountain,New Mexico,1993.9999999999998,14708.0
+Northeast,Middle Atlantic,New York,1993.9999999999998,175433.0
+South,South Atlantic,North Carolina,1993.9999999999998,46307.99999999999
+Midwest,West North Central,North Dakota,1993.9999999999998,522.0
+Midwest,East North Central,Ohio,1993.9999999999998,53930.00000000001
+South,West South Central,Oklahoma,1993.9999999999998,21225.0
+West,Pacific,Oregon,1993.9999999999998,16067.000000000002
+Northeast,Middle Atlantic,Pennsylvania,1993.9999999999998,51425.00000000001
+Northeast,New England,Rhode Island,1993.9999999999998,3744.0000000000005
+South,South Atlantic,South Carolina,1993.9999999999998,37756.0
+Midwest,West North Central,South Dakota,1993.9999999999998,1640.9999999999998
+South,East South Central,Tennessee,1993.9999999999998,38705.0
+South,West South Central,Texas,1993.9999999999998,129838.0
+West,Mountain,Utah,1993.9999999999998,5810.0
+Northeast,New England,Vermont,1993.9999999999998,562.0
+South,South Atlantic,Virginia,1993.9999999999998,23437.0
+West,Pacific,Washington,1993.9999999999998,27317.0
+South,South Atlantic,West Virginia,1993.9999999999998,3930.9999999999995
+Midwest,East North Central,Wisconsin,1993.9999999999998,13747.999999999998
+West,Mountain,Wyoming,1993.9999999999998,1297.0
+South,East South Central,Alabama,1995.0,26894.0
+West,Pacific,Alaska,1995.0,4656.0
+West,Mountain,Arizona,1995.0,30095.0
+South,West South Central,Arkansas,1995.0,13741.0
+West,Pacific,California,1995.0,305154.0
+West,Mountain,Colorado,1995.0,16494.0
+Northeast,New England,Connecticut,1995.0,13293.0
+South,South Atlantic,Delaware,1995.0,5198.0
+South,South Atlantic,District of Columbia,1995.0,14744.0
+South,South Atlantic,Florida,1995.0,151711.0
+South,South Atlantic,Georgia,1995.0,47317.0
+West,Pacific,Hawaii,1995.0,3509.0
+West,Mountain,Idaho,1995.0,3745.0
+Midwest,East North Central,Illinois,1995.0,117836.0
+Midwest,East North Central,Indiana,1995.0,30451.0
+Midwest,West North Central,Iowa,1995.0,10071.0
+Midwest,West North Central,Kansas,1995.0,10792.0
+South,East South Central,Kentucky,1995.0,14079.000000000002
+South,West South Central,Louisiana,1995.0,43741.0
+Northeast,New England,Maine,1995.0,1631.0
+South,South Atlantic,Maryland,1995.0,49757.0
+Northeast,New England,Massachusetts,1995.0,41739.0
+Midwest,East North Central,Michigan,1995.0,65680.0
+Midwest,West North Central,Minnesota,1995.0,16416.0
+South,East South Central,Mississippi,1995.0,13560.0
+Midwest,West North Central,Missouri,1995.0,35339.0
+West,Mountain,Montana,1995.0,1491.0
+Midwest,West North Central,Nebraska,1995.0,6253.000000000001
+West,Mountain,Nevada,1995.0,14461.0
+Northeast,New England,New Hampshire,1995.0,1314.0
+Northeast,Middle Atlantic,New Jersey,1995.0,47652.0
+West,Mountain,New Mexico,1995.0,13804.000000000002
+Northeast,Middle Atlantic,New York,1995.0,152683.0
+South,South Atlantic,North Carolina,1995.0,46508.0
+Midwest,West North Central,North Dakota,1995.0,556.0
+Midwest,East North Central,Ohio,1995.0,53799.0
+South,West South Central,Oklahoma,1995.0,21770.000000000004
+West,Pacific,Oregon,1995.0,16408.0
+Northeast,Middle Atlantic,Pennsylvania,1995.0,51586.00000000001
+Northeast,New England,Rhode Island,1995.0,3643.0
+South,South Atlantic,South Carolina,1995.0,36067.0
+Midwest,West North Central,South Dakota,1995.0,1513.0000000000002
+South,East South Central,Tennessee,1995.0,40549.0
+South,West South Central,Texas,1995.0,124302.99999999999
+West,Mountain,Utah,1995.0,6415.0
+Northeast,New England,Vermont,1995.0,692.0
+South,South Atlantic,Virginia,1995.0,23921.0
+West,Pacific,Washington,1995.0,26299.999999999996
+South,South Atlantic,West Virginia,1995.0,3841.9999999999995
+Midwest,East North Central,Wisconsin,1995.0,14399.0
+West,Mountain,Wyoming,1995.0,1220.0
+South,East South Central,Alabama,1995.9999999999998,24159.0
+West,Pacific,Alaska,1995.9999999999998,4417.0
+West,Mountain,Arizona,1995.9999999999998,27963.0
+South,West South Central,Arkansas,1995.9999999999998,13161.000000000002
+West,Pacific,California,1995.9999999999998,274996.0
+West,Mountain,Colorado,1995.9999999999998,15463.0
+Northeast,New England,Connecticut,1995.9999999999998,13490.0
+South,South Atlantic,Delaware,1995.9999999999998,4845.0
+South,South Atlantic,District of Columbia,1995.9999999999998,13411.0
+South,South Atlantic,Florida,1995.9999999999998,151350.0
+South,South Atlantic,Georgia,1995.9999999999998,46966.0
+West,Pacific,Hawaii,1995.9999999999998,3321.9999999999995
+West,Mountain,Idaho,1995.9999999999998,3177.0
+Midwest,East North Central,Illinois,1995.9999999999998,105482.0
+Midwest,East North Central,Indiana,1995.9999999999998,31366.0
+Midwest,West North Central,Iowa,1995.9999999999998,7771.0
+Midwest,West North Central,Kansas,1995.9999999999998,10642.0
+South,East South Central,Kentucky,1995.9999999999998,12448.000000000002
+South,West South Central,Louisiana,1995.9999999999998,40426.0
+Northeast,New England,Maine,1995.9999999999998,1553.0
+South,South Atlantic,Maryland,1995.9999999999998,47230.0
+Northeast,New England,Massachusetts,1995.9999999999998,39122.0
+Midwest,East North Central,Michigan,1995.9999999999998,60951.0
+Midwest,West North Central,Minnesota,1995.9999999999998,15781.999999999998
+South,East South Central,Mississippi,1995.9999999999998,13261.0
+Midwest,West North Central,Missouri,1995.9999999999998,31669.0
+West,Mountain,Montana,1995.9999999999998,1415.0
+Midwest,West North Central,Nebraska,1995.9999999999998,7182.0
+West,Mountain,Nevada,1995.9999999999998,13005.0
+Northeast,New England,New Hampshire,1995.9999999999998,1373.0
+Northeast,Middle Atlantic,New Jersey,1995.9999999999998,42459.0
+West,Mountain,New Mexico,1995.9999999999998,14399.0
+Northeast,Middle Atlantic,New York,1995.9999999999998,132206.0
+South,South Atlantic,North Carolina,1995.9999999999998,43068.0
+Midwest,West North Central,North Dakota,1995.9999999999998,541.0
+Midwest,East North Central,Ohio,1995.9999999999998,47896.0
+South,West South Central,Oklahoma,1995.9999999999998,19710.0
+West,Pacific,Oregon,1995.9999999999998,14837.0
+Northeast,Middle Atlantic,Pennsylvania,1995.9999999999998,57905.00000000001
+Northeast,New England,Rhode Island,1995.9999999999998,3436.9999999999995
+South,South Atlantic,South Carolina,1995.9999999999998,36875.0
+Midwest,West North Central,South Dakota,1995.9999999999998,1297.0
+South,East South Central,Tennessee,1995.9999999999998,41175.0
+South,West South Central,Texas,1995.9999999999998,123269.99999999999
+West,Mountain,Utah,1995.9999999999998,6638.000000000001
+Northeast,New England,Vermont,1995.9999999999998,714.0
+South,South Atlantic,Virginia,1995.9999999999998,22782.000000000004
+West,Pacific,Washington,1995.9999999999998,23857.0
+South,South Atlantic,West Virginia,1995.9999999999998,3836.0000000000005
+Midwest,East North Central,Wisconsin,1995.9999999999998,13039.0
+West,Mountain,Wyoming,1995.9999999999998,1201.0
+South,East South Central,Alabama,1997.0,24379.0
+West,Pacific,Alaska,1997.0,4270.0
+West,Mountain,Arizona,1997.0,28411.000000000004
+South,West South Central,Arkansas,1997.0,13293.0
+West,Pacific,California,1997.0,257582.00000000003
+West,Mountain,Colorado,1997.0,14138.999999999998
+Northeast,New England,Connecticut,1997.0,12781.000000000002
+South,South Atlantic,Delaware,1997.0,5753.000000000001
+South,South Atlantic,District of Columbia,1997.0,10708.0
+South,South Atlantic,Florida,1997.0,149996.0
+South,South Atlantic,Georgia,1997.0,45408.0
+West,Pacific,Hawaii,1997.0,3298.9999999999995
+West,Mountain,Idaho,1997.0,3107.0
+Midwest,East North Central,Illinois,1997.0,102476.0
+Midwest,East North Central,Indiana,1997.0,30179.0
+Midwest,West North Central,Iowa,1997.0,8841.0
+Midwest,West North Central,Kansas,1997.0,11150.999999999998
+South,East South Central,Kentucky,1997.0,12386.0
+South,West South Central,Louisiana,1997.0,37248.0
+Northeast,New England,Maine,1997.0,1500.0000000000002
+South,South Atlantic,Maryland,1997.0,43127.0
+Northeast,New England,Massachusetts,1997.0,39411.0
+Midwest,East North Central,Michigan,1997.0,57663.0
+Midwest,West North Central,Minnesota,1997.0,15826.999999999998
+South,East South Central,Mississippi,1997.0,12808.0
+Midwest,West North Central,Missouri,1997.0,31192.000000000004
+West,Mountain,Montana,1997.0,1161.0
+Midwest,West North Central,Nebraska,1997.0,7265.0
+West,Mountain,Nevada,1997.0,13395.0
+Northeast,New England,New Hampshire,1997.0,1328.0
+Northeast,Middle Atlantic,New Jersey,1997.0,39673.0
+West,Mountain,New Mexico,1997.0,14762.0
+Northeast,Middle Atlantic,New York,1997.0,124890.0
+South,South Atlantic,North Carolina,1997.0,45071.0
+Midwest,West North Central,North Dakota,1997.0,559.0
+Midwest,East North Central,Ohio,1997.0,48706.0
+South,West South Central,Oklahoma,1997.0,18560.0
+West,Pacific,Oregon,1997.0,14412.0
+Northeast,Middle Atlantic,Pennsylvania,1997.0,53140.0
+Northeast,New England,Rhode Island,1997.0,3292.0
+South,South Atlantic,South Carolina,1997.0,37235.0
+Midwest,West North Central,South Dakota,1997.0,1457.0000000000002
+South,East South Central,Tennessee,1997.0,42389.0
+South,West South Central,Texas,1997.0,117126.0
+West,Mountain,Utah,1997.0,6878.0
+Northeast,New England,Vermont,1997.0,705.0
+South,South Atlantic,Virginia,1997.0,23249.0
+West,Pacific,Washington,1997.0,24724.0
+South,South Atlantic,West Virginia,1997.0,3971.0000000000005
+Midwest,East North Central,Wisconsin,1997.0,13988.000000000002
+West,Mountain,Wyoming,1997.0,1225.0
+South,East South Central,Alabama,1997.9999999999998,22286.0
+West,Pacific,Alaska,1997.9999999999998,4015.0
+West,Mountain,Arizona,1997.9999999999998,26984.0
+South,West South Central,Arkansas,1997.9999999999998,12442.0
+West,Pacific,California,1997.9999999999998,229883.0
+West,Mountain,Colorado,1997.9999999999998,15008.0
+Northeast,New England,Connecticut,1997.9999999999998,11993.0
+South,South Atlantic,Delaware,1997.9999999999998,5672.0
+South,South Atlantic,District of Columbia,1997.9999999999998,8988.0
+South,South Atlantic,Florida,1997.9999999999998,140016.0
+South,South Atlantic,Georgia,1997.9999999999998,43762.0
+West,Pacific,Hawaii,1997.9999999999998,2946.0
+West,Mountain,Idaho,1997.9999999999998,3468.0
+Midwest,East North Central,Illinois,1997.9999999999998,97291.0
+Midwest,East North Central,Indiana,1997.9999999999998,25423.0
+Midwest,West North Central,Iowa,1997.9999999999998,8916.0
+Midwest,West North Central,Kansas,1997.9999999999998,10972.0
+South,East South Central,Kentucky,1997.9999999999998,12908.999999999998
+South,West South Central,Louisiana,1997.9999999999998,34057.0
+Northeast,New England,Maine,1997.9999999999998,1566.0000000000002
+South,South Atlantic,Maryland,1997.9999999999998,40903.0
+Northeast,New England,Massachusetts,1997.9999999999998,38192.0
+Midwest,East North Central,Michigan,1997.9999999999998,60947.0
+Midwest,West North Central,Minnesota,1997.9999999999998,14655.999999999998
+South,East South Central,Mississippi,1997.9999999999998,11302.0
+Midwest,West North Central,Missouri,1997.9999999999998,30222.0
+West,Mountain,Montana,1997.9999999999998,1797.0
+Midwest,West North Central,Nebraska,1997.9999999999998,7507.0
+West,Mountain,Nevada,1997.9999999999998,11244.0
+Northeast,New England,New Hampshire,1997.9999999999998,1270.0
+Northeast,Middle Atlantic,New Jersey,1997.9999999999998,35720.0
+West,Mountain,New Mexico,1997.9999999999998,16700.0
+Northeast,Middle Atlantic,New York,1997.9999999999998,115915.0
+South,South Atlantic,North Carolina,1997.9999999999998,43723.0
+Midwest,West North Central,North Dakota,1997.9999999999998,570.0
+Midwest,East North Central,Ohio,1997.9999999999998,40628.0
+South,West South Central,Oklahoma,1997.9999999999998,18053.0
+West,Pacific,Oregon,1997.9999999999998,13778.0
+Northeast,Middle Atlantic,Pennsylvania,1997.9999999999998,50470.0
+Northeast,New England,Rhode Island,1997.9999999999998,3084.0
+South,South Atlantic,South Carolina,1997.9999999999998,34647.0
+Midwest,West North Central,South Dakota,1997.9999999999998,1139.0
+South,East South Central,Tennessee,1997.9999999999998,38832.0
+South,West South Central,Texas,1997.9999999999998,111566.0
+West,Mountain,Utah,1997.9999999999998,6599.0
+Northeast,New England,Vermont,1997.9999999999998,628.0
+South,South Atlantic,Virginia,1997.9999999999998,22115.000000000004
+West,Pacific,Washington,1997.9999999999998,24380.0
+South,South Atlantic,West Virginia,1997.9999999999998,4503.0
+Midwest,East North Central,Wisconsin,1997.9999999999998,13009.0
+West,Mountain,Wyoming,1997.9999999999998,1191.0
+South,East South Central,Alabama,1999.0,21421.0
+West,Pacific,Alaska,1999.0,3907.9999999999995
+West,Mountain,Arizona,1999.0,26334.0
+South,West South Central,Arkansas,1999.0,10848.0
+West,Pacific,California,1999.0,207879.00000000003
+West,Mountain,Colorado,1999.0,13811.0
+Northeast,New England,Connecticut,1999.0,11342.0
+South,South Atlantic,Delaware,1999.0,5534.0
+South,South Atlantic,District of Columbia,1999.0,8448.0
+South,South Atlantic,Florida,1999.0,129044.0
+South,South Atlantic,Georgia,1999.0,41585.0
+West,Pacific,Hawaii,1999.0,2784.9999999999995
+West,Mountain,Idaho,1999.0,3066.0000000000005
+Midwest,East North Central,Illinois,1999.0,83621.0
+Midwest,East North Central,Indiana,1999.0,22261.0
+Midwest,West North Central,Iowa,1999.0,8034.000000000001
+Midwest,West North Central,Kansas,1999.0,10159.0
+South,East South Central,Kentucky,1999.0,12212.0
+South,West South Central,Louisiana,1999.0,32033.0
+Northeast,New England,Maine,1999.0,1403.9999999999998
+South,South Atlantic,Maryland,1999.0,38447.0
+Northeast,New England,Massachusetts,1999.0,34023.0
+Midwest,East North Central,Michigan,1999.0,56709.00000000001
+Midwest,West North Central,Minnesota,1999.0,13085.0
+South,East South Central,Mississippi,1999.0,9671.0
+Midwest,West North Central,Missouri,1999.0,27353.0
+West,Mountain,Montana,1999.0,2090.0
+Midwest,West North Central,Nebraska,1999.0,7166.999999999999
+West,Mountain,Nevada,1999.0,10311.0
+Northeast,New England,New Hampshire,1999.0,1159.0
+Northeast,Middle Atlantic,New Jersey,1999.0,33540.0
+West,Mountain,New Mexico,1999.0,14520.0
+Northeast,Middle Atlantic,New York,1999.0,107147.0
+South,South Atlantic,North Carolina,1999.0,41474.0
+Midwest,West North Central,North Dakota,1999.0,424.0
+Midwest,East North Central,Ohio,1999.0,35616.0
+South,West South Central,Oklahoma,1999.0,17066.0
+West,Pacific,Oregon,1999.0,12432.0
+Northeast,Middle Atlantic,Pennsylvania,1999.0,50431.0
+Northeast,New England,Rhode Island,1999.0,2840.0
+South,South Atlantic,South Carolina,1999.0,32920.0
+Midwest,West North Central,South Dakota,1999.0,1227.0
+South,East South Central,Tennessee,1999.0,38111.0
+South,West South Central,Texas,1999.0,112306.0
+West,Mountain,Utah,1999.0,5869.0
+Northeast,New England,Vermont,1999.0,676.0000000000001
+South,South Atlantic,Virginia,1999.0,21626.0
+West,Pacific,Washington,1999.0,21716.0
+South,South Atlantic,West Virginia,1999.0,6336.0
+Midwest,East North Central,Wisconsin,1999.0,12908.000000000002
+West,Mountain,Wyoming,1999.0,1115.0
+South,East South Central,Alabama,1999.9999999999998,21620.0
+West,Pacific,Alaska,1999.9999999999998,3554.0
+West,Mountain,Arizona,1999.9999999999998,27281.0
+South,West South Central,Arkansas,1999.9999999999998,11904.0
+West,Pacific,California,1999.9999999999998,210531.0
+West,Mountain,Colorado,1999.9999999999998,14367.000000000002
+Northeast,New England,Connecticut,1999.9999999999998,11058.000000000002
+South,South Atlantic,Delaware,1999.9999999999998,5363.0
+South,South Atlantic,District of Columbia,1999.9999999999998,8626.0
+South,South Atlantic,Florida,1999.9999999999998,129777.0
+South,South Atlantic,Georgia,1999.9999999999998,41319.0
+West,Pacific,Hawaii,1999.9999999999998,2954.0000000000005
+West,Mountain,Idaho,1999.9999999999998,3267.0000000000005
+Midwest,East North Central,Illinois,1999.9999999999998,81196.0
+Midwest,East North Central,Indiana,1999.9999999999998,21230.0
+Midwest,West North Central,Iowa,1999.9999999999998,7796.0
+Midwest,West North Central,Kansas,1999.9999999999998,10470.0
+South,East South Central,Kentucky,1999.9999999999998,11903.0
+South,West South Central,Louisiana,1999.9999999999998,30440.0
+Northeast,New England,Maine,1999.9999999999998,1397.0
+South,South Atlantic,Maryland,1999.9999999999998,41663.0
+Northeast,New England,Massachusetts,1999.9999999999998,30229.999999999996
+Midwest,East North Central,Michigan,1999.9999999999998,55159.0
+Midwest,West North Central,Minnesota,1999.9999999999998,13813.0
+South,East South Central,Mississippi,1999.9999999999998,10267.0
+Midwest,West North Central,Missouri,1999.9999999999998,27419.0
+West,Mountain,Montana,1999.9999999999998,2807.0
+Midwest,West North Central,Nebraska,1999.9999999999998,5606.0
+West,Mountain,Nevada,1999.9999999999998,10474.0
+Northeast,New England,New Hampshire,1999.9999999999998,2167.0
+Northeast,Middle Atlantic,New Jersey,1999.9999999999998,32297.999999999996
+West,Mountain,New Mexico,1999.9999999999998,13786.0
+Northeast,Middle Atlantic,New York,1999.9999999999998,105111.0
+South,South Atlantic,North Carolina,1999.9999999999998,40051.0
+Midwest,West North Central,North Dakota,1999.9999999999998,523.0
+Midwest,East North Central,Ohio,1999.9999999999998,37935.0
+South,West South Central,Oklahoma,1999.9999999999998,17177.0
+West,Pacific,Oregon,1999.9999999999998,12000.000000000002
+Northeast,Middle Atlantic,Pennsylvania,1999.9999999999998,51584.00000000001
+Northeast,New England,Rhode Island,1999.9999999999998,3120.9999999999995
+South,South Atlantic,South Carolina,1999.9999999999998,33225.0
+Midwest,West North Central,South Dakota,1999.9999999999998,1259.0
+South,East South Central,Tennessee,1999.9999999999998,40233.0
+South,West South Central,Texas,1999.9999999999998,113653.0
+West,Mountain,Utah,1999.9999999999998,5711.0
+Northeast,New England,Vermont,1999.9999999999998,691.0
+South,South Atlantic,Virginia,1999.9999999999998,19943.0
+West,Pacific,Washington,1999.9999999999998,21788.0
+South,South Atlantic,West Virginia,1999.9999999999998,5723.0
+Midwest,East North Central,Wisconsin,1999.9999999999998,12700.0
+West,Mountain,Wyoming,1999.9999999999998,1316.0
+South,East South Central,Alabama,2001.0,19582.0
+West,Pacific,Alaska,2001.0,3735.0
+West,Mountain,Arizona,2001.0,28675.0
+South,West South Central,Arkansas,2001.0,12190.0
+West,Pacific,California,2001.0,212854.99999999997
+West,Mountain,Colorado,2001.0,15492.0
+Northeast,New England,Connecticut,2001.0,11492.0
+South,South Atlantic,Delaware,2001.0,4868.0
+South,South Atlantic,District of Columbia,2001.0,9931.0
+South,South Atlantic,Florida,2001.0,130713.0
+South,South Atlantic,Georgia,2001.0,41671.0
+West,Pacific,Hawaii,2001.0,3117.0
+West,Mountain,Idaho,2001.0,3211.0
+Midwest,East North Central,Illinois,2001.0,79504.0
+Midwest,East North Central,Indiana,2001.0,22734.0
+Midwest,West North Central,Iowa,2001.0,7865.0
+Midwest,West North Central,Kansas,2001.0,10909.000000000002
+South,East South Central,Kentucky,2001.0,10448.0
+South,West South Central,Louisiana,2001.0,30678.0
+Northeast,New England,Maine,2001.0,1434.0000000000002
+South,South Atlantic,Maryland,2001.0,42088.0
+Northeast,New England,Massachusetts,2001.0,30587.0
+Midwest,East North Central,Michigan,2001.0,55424.0
+Midwest,West North Central,Minnesota,2001.0,13145.0
+South,East South Central,Mississippi,2001.0,10006.0
+Midwest,West North Central,Missouri,2001.0,30472.0
+West,Mountain,Montana,2001.0,3186.9999999999995
+Midwest,West North Central,Nebraska,2001.0,5214.0
+West,Mountain,Nevada,2001.0,12359.0
+Northeast,New England,New Hampshire,2001.0,2144.0
+Northeast,Middle Atlantic,New Jersey,2001.0,33094.0
+West,Mountain,New Mexico,2001.0,14287.999999999998
+Northeast,Middle Atlantic,New York,2001.0,98102.99999999999
+South,South Atlantic,North Carolina,2001.0,40465.0
+Midwest,West North Central,North Dakota,2001.0,504.99999999999994
+Midwest,East North Central,Ohio,2001.0,40023.0
+South,West South Central,Oklahoma,2001.0,17726.0
+West,Pacific,Oregon,2001.0,10650.0
+Northeast,Middle Atlantic,Pennsylvania,2001.0,50432.0
+Northeast,New England,Rhode Island,2001.0,3278.0
+South,South Atlantic,South Carolina,2001.0,29264.999999999996
+Midwest,West North Central,South Dakota,2001.0,1171.0
+South,East South Central,Tennessee,2001.0,42778.0
+South,West South Central,Texas,2001.0,122155.0
+West,Mountain,Utah,2001.0,5314.0
+Northeast,New England,Vermont,2001.0,644.0
+South,South Atlantic,Virginia,2001.0,20939.0
+West,Pacific,Washington,2001.0,21258.0
+South,South Atlantic,West Virginia,2001.0,5035.0
+Midwest,East North Central,Wisconsin,2001.0,12486.0
+West,Mountain,Wyoming,2001.0,1272.0
+South,East South Central,Alabama,2001.9999999999998,19931.0
+West,Pacific,Alaska,2001.9999999999998,3627.0
+West,Mountain,Arizona,2001.9999999999998,30171.0
+South,West South Central,Arkansas,2001.9999999999998,11501.0
+West,Pacific,California,2001.9999999999998,208388.0
+West,Mountain,Colorado,2001.9999999999998,15882.0
+Northeast,New England,Connecticut,2001.9999999999998,10806.999999999998
+South,South Atlantic,Delaware,2001.9999999999998,4836.0
+South,South Atlantic,District of Columbia,2001.9999999999998,9322.0
+South,South Atlantic,Florida,2001.9999999999998,128721.0
+South,South Atlantic,Georgia,2001.9999999999998,39271.0
+West,Pacific,Hawaii,2001.9999999999998,3262.0
+West,Mountain,Idaho,2001.9999999999998,3419.0
+Midwest,East North Central,Illinois,2001.9999999999998,75759.0
+Midwest,East North Central,Indiana,2001.9999999999998,22001.000000000004
+Midwest,West North Central,Iowa,2001.9999999999998,8388.0
+Midwest,West North Central,Kansas,2001.9999999999998,10229.0
+South,East South Central,Kentucky,2001.9999999999998,11101.0
+South,West South Central,Louisiana,2001.9999999999998,29690.0
+Northeast,New England,Maine,2001.9999999999998,1396.0
+South,South Atlantic,Maryland,2001.9999999999998,42015.0
+Northeast,New England,Massachusetts,2001.9999999999998,31137.0
+Midwest,East North Central,Michigan,2001.9999999999998,54306.0
+Midwest,West North Central,Minnesota,2001.9999999999998,13428.0
+South,East South Central,Mississippi,2001.9999999999998,9858.0
+Midwest,West North Central,Missouri,2001.9999999999998,30557.0
+West,Mountain,Montana,2001.9999999999998,3197.0
+Midwest,West North Central,Nebraska,2001.9999999999998,5428.0
+West,Mountain,Nevada,2001.9999999999998,13856.0
+Northeast,New England,New Hampshire,2001.9999999999998,2056.0
+Northeast,Middle Atlantic,New Jersey,2001.9999999999998,32251.999999999996
+West,Mountain,New Mexico,2001.9999999999998,13719.0
+Northeast,Middle Atlantic,New York,2001.9999999999998,95030.00000000001
+South,South Atlantic,North Carolina,2001.9999999999998,39118.0
+Midwest,West North Central,North Dakota,2001.9999999999998,496.00000000000006
+Midwest,East North Central,Ohio,2001.9999999999998,40128.0
+South,West South Central,Oklahoma,2001.9999999999998,17587.0
+West,Pacific,Oregon,2001.9999999999998,10298.0
+Northeast,Middle Atlantic,Pennsylvania,2001.9999999999998,49578.0
+Northeast,New England,Rhode Island,2001.9999999999998,3051.0
+South,South Atlantic,South Carolina,2001.9999999999998,33761.0
+Midwest,West North Central,South Dakota,2001.9999999999998,1350.0
+South,East South Central,Tennessee,2001.9999999999998,41562.0
+South,West South Central,Texas,2001.9999999999998,126017.99999999999
+West,Mountain,Utah,2001.9999999999998,5488.0
+Northeast,New England,Vermont,2001.9999999999998,658.0
+South,South Atlantic,Virginia,2001.9999999999998,21256.0
+West,Pacific,Washington,2001.9999999999998,20964.0
+South,South Atlantic,West Virginia,2001.9999999999998,4221.0
+Midwest,East North Central,Wisconsin,2001.9999999999998,12238.0
+West,Mountain,Wyoming,2001.9999999999998,1364.0
+South,East South Central,Alabama,2003.0,19331.0
+West,Pacific,Alaska,2003.0,3877.0
+West,Mountain,Arizona,2003.0,28638.0
+South,West South Central,Arkansas,2003.0,12448.999999999998
+West,Pacific,California,2003.0,205551.0
+West,Mountain,Colorado,2003.0,15757.000000000002
+Northeast,New England,Connecticut,2003.0,11045.0
+South,South Atlantic,Delaware,2003.0,5525.0
+South,South Atlantic,District of Columbia,2003.0,9061.0
+South,South Atlantic,Florida,2003.0,124280.0
+South,South Atlantic,Georgia,2003.0,39435.0
+West,Pacific,Hawaii,2003.0,3400.0
+West,Mountain,Idaho,2003.0,3362.0000000000005
+Midwest,East North Central,Illinois,2003.0,70376.0
+Midwest,East North Central,Indiana,2003.0,21841.999999999996
+Midwest,West North Central,Iowa,2003.0,8175.0
+Midwest,West North Central,Kansas,2003.0,10831.0
+South,East South Central,Kentucky,2003.0,10232.0
+South,West South Central,Louisiana,2003.0,28621.999999999996
+Northeast,New England,Maine,2003.0,1422.0
+South,South Atlantic,Maryland,2003.0,38778.0
+Northeast,New England,Massachusetts,2003.0,30377.0
+Midwest,East North Central,Michigan,2003.0,51550.0
+Midwest,West North Central,Minnesota,2003.0,13316.0
+South,East South Central,Mississippi,2003.0,9336.0
+Midwest,West North Central,Missouri,2003.0,28067.000000000004
+West,Mountain,Montana,2003.0,3351.0
+Midwest,West North Central,Nebraska,2003.0,5105.0
+West,Mountain,Nevada,2003.0,13813.0
+Northeast,New England,New Hampshire,2003.0,1937.0
+Northeast,Middle Atlantic,New Jersey,2003.0,31488.0
+West,Mountain,New Mexico,2003.0,12535.0
+Northeast,Middle Atlantic,New York,2003.0,89486.0
+South,South Atlantic,North Carolina,2003.0,38243.0
+Midwest,West North Central,North Dakota,2003.0,508.0
+Midwest,East North Central,Ohio,2003.0,38185.0
+South,West South Central,Oklahoma,2003.0,17758.0
+West,Pacific,Oregon,2003.0,10506.0
+Northeast,Middle Atlantic,Pennsylvania,2003.0,49210.0
+Northeast,New England,Rhode Island,2003.0,3074.0
+South,South Atlantic,South Carolina,2003.0,33455.0
+Midwest,West North Central,South Dakota,2003.0,1329.0
+South,East South Central,Tennessee,2003.0,40409.0
+South,West South Central,Texas,2003.0,122246.00000000001
+West,Mountain,Utah,2003.0,5889.0
+Northeast,New England,Vermont,2003.0,706.9999999999999
+South,South Atlantic,Virginia,2003.0,20490.0
+West,Pacific,Washington,2003.0,21272.0
+South,South Atlantic,West Virginia,2003.0,4627.0
+Midwest,East North Central,Wisconsin,2003.0,12104.000000000002
+West,Mountain,Wyoming,2003.0,1314.0
+South,East South Central,Alabama,2004.0000000000002,19324.0
+West,Pacific,Alaska,2004.0000000000002,4159.0
+West,Mountain,Arizona,2004.0000000000002,28952.0
+South,West South Central,Arkansas,2004.0000000000002,13814.0
+West,Pacific,California,2004.0000000000002,189175.0
+West,Mountain,Colorado,2004.0000000000002,17121.0
+Northeast,New England,Connecticut,2004.0000000000002,10113.0
+South,South Atlantic,Delaware,2004.0000000000002,5105.0
+South,South Atlantic,District of Columbia,2004.0000000000002,7590.0
+South,South Atlantic,Florida,2004.0000000000002,123754.0
+South,South Atlantic,Georgia,2004.0000000000002,40217.0
+West,Pacific,Hawaii,2004.0000000000002,3212.9999999999995
+West,Mountain,Idaho,2004.0000000000002,3452.0
+Midwest,East North Central,Illinois,2004.0000000000002,69365.0
+Midwest,East North Central,Indiana,2004.0000000000002,20294.0
+Midwest,West North Central,Iowa,2004.0000000000002,8499.0
+Midwest,West North Central,Kansas,2004.0000000000002,10330.0
+South,East South Central,Kentucky,2004.0000000000002,10152.0
+South,West South Central,Louisiana,2004.0000000000002,28844.0
+Northeast,New England,Maine,2004.0000000000002,1364.0
+South,South Atlantic,Maryland,2004.0000000000002,38961.0
+Northeast,New England,Massachusetts,2004.0000000000002,29489.0
+Midwest,East North Central,Michigan,2004.0000000000002,49737.0
+Midwest,West North Central,Minnesota,2004.0000000000002,13751.0
+South,East South Central,Mississippi,2004.0000000000002,8568.0
+Midwest,West North Central,Missouri,2004.0000000000002,28226.0
+West,Mountain,Montana,2004.0000000000002,2723.0
+Midwest,West North Central,Nebraska,2004.0000000000002,5393.0
+West,Mountain,Nevada,2004.0000000000002,14379.000000000002
+Northeast,New England,New Hampshire,2004.0000000000002,2202.0
+Northeast,Middle Atlantic,New Jersey,2004.0000000000002,30942.999999999996
+West,Mountain,New Mexico,2004.0000000000002,13080.999999999998
+Northeast,Middle Atlantic,New York,2004.0000000000002,84914.0
+South,South Atlantic,North Carolina,2004.0000000000002,38244.0
+Midwest,West North Central,North Dakota,2004.0000000000002,558.0
+Midwest,East North Central,Ohio,2004.0000000000002,38787.0
+South,West South Central,Oklahoma,2004.0000000000002,17635.0
+West,Pacific,Oregon,2004.0000000000002,10724.0
+Northeast,Middle Atlantic,Pennsylvania,2004.0000000000002,50998.0
+Northeast,New England,Rhode Island,2004.0000000000002,2673.0
+South,South Atlantic,South Carolina,2004.0000000000002,33160.0
+Midwest,West North Central,South Dakota,2004.0000000000002,1319.0
+South,East South Central,Tennessee,2004.0000000000002,41113.0
+South,West South Central,Texas,2004.0000000000002,121554.0
+West,Mountain,Utah,2004.0000000000002,5647.0
+Northeast,New England,Vermont,2004.0000000000002,713.0
+South,South Atlantic,Virginia,2004.0000000000002,20608.0
+West,Pacific,Washington,2004.0000000000002,21330.0
+South,South Atlantic,West Virginia,2004.0000000000002,5110.0
+Midwest,East North Central,Wisconsin,2004.0000000000002,11548.0
+West,Mountain,Wyoming,2004.0000000000002,1163.0
+South,East South Central,Alabama,2005.0,19678.0
+West,Pacific,Alaska,2005.0,4194.0
+West,Mountain,Arizona,2005.0,30478.0
+South,West South Central,Arkansas,2005.0,14659.0
+West,Pacific,California,2005.0,190178.0
+West,Mountain,Colorado,2005.0,18498.0
+Northeast,New England,Connecticut,2005.0,9635.0
+South,South Atlantic,Delaware,2005.0,5332.0
+South,South Atlantic,District of Columbia,2005.0,8032.0
+South,South Atlantic,Florida,2005.0,125957.0
+South,South Atlantic,Georgia,2005.0,40725.0
+West,Pacific,Hawaii,2005.0,3252.9999999999995
+West,Mountain,Idaho,2005.0,3670.0
+Midwest,East North Central,Illinois,2005.0,70392.0
+Midwest,East North Central,Indiana,2005.0,20302.0
+Midwest,West North Central,Iowa,2005.0,8642.0
+Midwest,West North Central,Kansas,2005.0,10634.0
+South,East South Central,Kentucky,2005.0,11134.0
+South,West South Central,Louisiana,2005.0,26889.0
+Northeast,New England,Maine,2005.0,1482.9999999999998
+South,South Atlantic,Maryland,2005.0,39369.0
+Northeast,New England,Massachusetts,2005.0,29237.0
+Midwest,East North Central,Michigan,2005.0,55877.0
+Midwest,West North Central,Minnesota,2005.0,15243.0
+South,East South Central,Mississippi,2005.0,8131.000000000001
+Midwest,West North Central,Missouri,2005.0,30477.0
+West,Mountain,Montana,2005.0,2634.0
+Midwest,West North Central,Nebraska,2005.0,5048.0
+West,Mountain,Nevada,2005.0,14654.000000000002
+Northeast,New England,New Hampshire,2005.0,1729.0
+Northeast,Middle Atlantic,New Jersey,2005.0,30918.999999999996
+West,Mountain,New Mexico,2005.0,13540.999999999998
+Northeast,Middle Atlantic,New York,2005.0,85839.0
+South,South Atlantic,North Carolina,2005.0,40650.0
+Midwest,West North Central,North Dakota,2005.0,625.0
+Midwest,East North Central,Ohio,2005.0,40273.0
+South,West South Central,Oklahoma,2005.0,18044.0
+West,Pacific,Oregon,2005.0,10444.0
+Northeast,Middle Atlantic,Pennsylvania,2005.0,52760.99999999999
+Northeast,New England,Rhode Island,2005.0,2703.0
+South,South Atlantic,South Carolina,2005.0,32384.0
+Midwest,West North Central,South Dakota,2005.0,1363.0
+South,East South Central,Tennessee,2005.0,44891.0
+South,West South Central,Texas,2005.0,121091.0
+West,Mountain,Utah,2005.0,5612.0
+Northeast,New England,Vermont,2005.0,746.0
+South,South Atlantic,Virginia,2005.0,21400.0
+West,Pacific,Washington,2005.0,21745.0
+South,South Atlantic,West Virginia,2005.0,4957.0
+Midwest,East North Central,Wisconsin,2005.0,13371.0
+West,Mountain,Wyoming,2005.0,1172.0
